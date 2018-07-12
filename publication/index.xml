@@ -12,5 +12,23 @@
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Signaling Networks</title>
+      <link>/publication/signaling-networks/</link>
+      <pubDate>Wed, 11 Jul 2018 23:13:10 -0400</pubDate>
+      
+      <guid>/publication/signaling-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A publication title, such as title of a paper</title>
+      <link>/publication/discretization/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/discretization/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
