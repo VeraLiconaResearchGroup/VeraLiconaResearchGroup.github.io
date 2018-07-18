@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>TEDIE</title>
+      <link>/tools/tedie/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/tedie/</guid>
+      <description>&lt;p&gt;Full description of TEDIE with documentation, downloadable data sample and appropriate links&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
       <link>/publication/discretization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
@@ -29,11 +39,101 @@
     </item>
     
     <item>
-      <title>kkbkblb</title>
-      <link>/project/project1/</link>
+      <title>Chromatin interaction networks revealed unique connectivity patterns of broad H3K4me3 domains and super enhancers in 3D chromatin</title>
+      <link>/publication/quin2/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/quin2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CD169&#43; marginal zone macrophages orchestrate innate immune responses to bacterial infection</title>
+      <link>/publication/spleenmacs/</link>
+      <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/spleenmacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Minimal Hitting Set Generation Problem: Algorithms and Computation</title>
+      <link>/publication/mhss/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mhss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AlgoRun: a Docker-based packaging system for platform-agnostic implemented algorithms</title>
+      <link>/publication/algorun/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/algorun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuIN: A Web Server for Querying and Visualizing Chromatin Interaction Networks</title>
+      <link>/publication/quin1/</link>
+      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/quin1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of Novel Network Inference Methods</title>
+      <link>/project/reverseengineering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/project1/</guid>
+      <guid>/project/reverseengineering/</guid>
+      <description>&lt;p&gt;Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:&lt;/p&gt;
+
+&lt;p&gt;(1) Data discretization,&lt;/p&gt;
+
+&lt;p&gt;(2) Static Network and Dynamical Model’s Inference,&lt;/p&gt;
+
+&lt;p&gt;(3) Validation and Benchmarking of Reverse-engineering Algorithms,&lt;/p&gt;
+
+&lt;p&gt;(4) Model Analysis and Simulation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure-Based Control of Dynamical Systems</title>
+      <link>/project/structurecontrol/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/structurecontrol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An algebra-based method for inferring gene regulatory networks</title>
+      <link>/publication/react/</link>
+      <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OCSANA: optimal combinations of interventions from network analysis</title>
+      <link>/publication/ocsana/</link>
+      <pubDate>Sat, 15 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ocsana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational systems biology: Discrete models of gene regulation networks</title>
+      <link>/publication/modelgenes1/</link>
+      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/modelgenes1/</guid>
       <description></description>
     </item>
     

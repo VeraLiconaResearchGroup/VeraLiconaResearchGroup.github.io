@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on The Vera-Licona Lab</title>
+    <link>/tools/</link>
+    <description>Recent content in Tools on The Vera-Licona Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TEDIE</title>
+      <link>/tools/tedie/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/tedie/</guid>
+      <description>Full description of TEDIE with documentation, downloadable data sample and appropriate links</description>
+    </item>
+    
+  </channel>
+</rss>

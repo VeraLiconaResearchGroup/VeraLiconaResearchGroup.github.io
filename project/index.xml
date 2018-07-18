@@ -13,11 +13,24 @@
     
     
     <item>
-      <title>kkbkblb</title>
-      <link>/project/project1/</link>
+      <title>Development of Novel Network Inference Methods</title>
+      <link>/project/reverseengineering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/project1/</guid>
+      <guid>/project/reverseengineering/</guid>
+      <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
+(1) Data discretization,
+(2) Static Network and Dynamical Model’s Inference,
+(3) Validation and Benchmarking of Reverse-engineering Algorithms,
+(4) Model Analysis and Simulation.</description>
+    </item>
+    
+    <item>
+      <title>Structure-Based Control of Dynamical Systems</title>
+      <link>/project/structurecontrol/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/structurecontrol/</guid>
       <description></description>
     </item>
     

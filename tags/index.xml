@@ -7,9 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data-discretization</title>
+      <link>/tags/data-discretization/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/data-discretization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network-inference</title>
+      <link>/tags/network-inference/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/network-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse-engineering</title>
+      <link>/tags/reverse-engineering/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/reverse-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure-based-control</title>
+      <link>/tags/structure-based-control/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/structure-based-control/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
