@@ -102,6 +102,26 @@
     </item>
     
     <item>
+      <title>Group Leader</title>
+      <link>/team/vera-licona/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/team/vera-licona/</guid>
+      <description>&lt;p&gt;jhb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MD/PhD Student</title>
+      <link>/team/marazzi/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/team/marazzi/</guid>
+      <description>&lt;p&gt;jhb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Structure-Based Control of Dynamical Systems</title>
       <link>/project/structurecontrol/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -111,29 +131,31 @@
     </item>
     
     <item>
+      <title>Undergrad/Intern</title>
+      <link>/team/channa/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/team/channa/</guid>
+      <description>&lt;p&gt;jhb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergrad/Volunteer</title>
+      <link>/team/qiu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/team/qiu/</guid>
+      <description>&lt;p&gt;jhb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An algebra-based method for inferring gene regulatory networks</title>
       <link>/publication/react/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
       
       <guid>/publication/react/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OCSANA: optimal combinations of interventions from network analysis</title>
-      <link>/publication/ocsana/</link>
-      <pubDate>Sat, 15 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ocsana/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational systems biology: Discrete models of gene regulation networks</title>
-      <link>/publication/modelgenes1/</link>
-      <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/modelgenes1/</guid>
       <description></description>
     </item>
     
