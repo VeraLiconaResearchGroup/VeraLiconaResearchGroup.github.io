@@ -16,7 +16,10 @@
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/tools/tedie/</guid>
-      <description>&lt;p&gt;Full description of TEDIE with documentation, downloadable data sample and appropriate links&lt;/p&gt;
+      <description>&lt;p&gt;Full description of TEDIE with
+1) documentation
+2) downloadable data sample
+3) Link to preprint in BioArXiv (and eventually to paper)&lt;/p&gt;
 </description>
     </item>
     
@@ -84,9 +87,22 @@
     </item>
     
     <item>
+      <title>CQM Research Experience for Undergraduates (REU)</title>
+      <link>/outreach/reu/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/outreach/reu/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Project Title&lt;/strong&gt;: Modeling and Simulation in Systems Biology
+Program Location: University of Connecticut Health Center, 263 Farmington Ave, Farmington, CT 06032
+&lt;strong&gt;Program Background&lt;/strong&gt;: A 10-week, in-residence, intensive summer research program, focused on modeling and simulation in systems biology, for U.S. citizen or permanent resident undergraduate students from around the United States and Puerto Rico.  It will provide participants with a broad view of available career opportunities for mathematical scientists in academia, industry, and government.  Participants will have the opportunity to expand their professional network of peers and mentors.
+For more information: &lt;a href=&#34;http://cqm.uchc.edu/biomath/&#34; target=&#34;_blank&#34;&gt;http://cqm.uchc.edu/biomath/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Development of Novel Network Inference Methods</title>
       <link>/project/reverseengineering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/reverseengineering/</guid>
       <description>&lt;p&gt;Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:&lt;/p&gt;
@@ -98,6 +114,26 @@
 &lt;p&gt;(3) Validation and Benchmarking of Reverse-engineering Algorithms,&lt;/p&gt;
 
 &lt;p&gt;(4) Model Analysis and Simulation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UConn Health Junior  &amp; Senior Doctors Academy Program</title>
+      <link>/outreach/uchc_hsprogram/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/outreach/uchc_hsprogram/</guid>
+      <description>&lt;p&gt;Outreach activities with 11th and 12th grade students through the Department of Health Career Opportunity Programs at UConn Health.  This is a program for 11th and 12th graders comprised of classes (e.g. Math and Science) and enrichment courses that include independent projects in STEM, enrichment trips and guidance in career objectives and goals. We will deliver seminars for the participant students, designed to expose them to the many possibilities on STEM career paths and how they contribute to society, including life sciences and medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UConn Health Summer Research Fellowship Program</title>
+      <link>/outreach/uchc.undergrad/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/outreach/uchc.undergrad/</guid>
+      <description>&lt;p&gt;This is a yearly summer research experiences for undergraduates run by the Department of Health Career Opportunity Programs at UConn Health through the Aetna Health Professions Partnership Initiative (Aetna HPPI). We will merge the REU activities with those of the Department of Health Career Opportunity’s Summer Research Fellowship Program, a 10-week research enrichment experience for college juniors, seniors and recent graduates. Every summer, we will receive one student from this program and incorporate her/him into the research and career development activities we coordinate through the REU program.&lt;/p&gt;
 </description>
     </item>
     
@@ -127,36 +163,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/structurecontrol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Undergrad/Intern</title>
-      <link>/team/channa/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/team/channa/</guid>
-      <description>&lt;p&gt;jhb&lt;/p&gt;
+      <description>&lt;p&gt;Network control has been originally developed as part of systems and control theory. While the methods developed in this area have been applied successfully to many engineered and natural systems, several factors have limited its application to large complex biological systems such as cellular signaling networks. These include the limited scalability of the methods for large networks with thousands of components, incomplete information to build dynamical models with hundreds of variables, and the linearity assumption for the underlying dynamics by which bi-stability, that characterizes signaling networks, might be affected. Additionally, in many instances is neither biologically feasible nor necessary to control the full network and instead it is more realistic and sufficient to achieve targeted control, that is, a control on a subset of nodes that are essential for the system’s task. Our two major aims in this project are: (1) Design highly scalable algorithms to identify combinations of intervention nodes to achieve targeted control of large signaling networks considering different graph structures and (2) Develop efficient algorithms for the prioritization of combinations of intervention nodes given the structure of the network and quantitative data&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Undergrad/Volunteer</title>
-      <link>/team/qiu/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/team/qiu/</guid>
-      <description>&lt;p&gt;jhb&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An algebra-based method for inferring gene regulatory networks</title>
-      <link>/publication/react/</link>
-      <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/react/</guid>
-      <description></description>
     </item>
     
   </channel>

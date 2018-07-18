@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 28 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Development of Novel Network Inference Methods</title>
       <link>/project/reverseengineering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/reverseengineering/</guid>
       <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
@@ -31,7 +31,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/structurecontrol/</guid>
-      <description></description>
+      <description>Network control has been originally developed as part of systems and control theory. While the methods developed in this area have been applied successfully to many engineered and natural systems, several factors have limited its application to large complex biological systems such as cellular signaling networks. These include the limited scalability of the methods for large networks with thousands of components, incomplete information to build dynamical models with hundreds of variables, and the linearity assumption for the underlying dynamics by which bi-stability, that characterizes signaling networks, might be affected.</description>
     </item>
     
   </channel>

@@ -95,8 +95,35 @@
     
     <url>
     
+      <loc>/outreach/reu/</loc>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/reverseengineering/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/outreach/uchc_hsprogram/</loc>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/outreach/uchc.undergrad/</loc>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -235,8 +262,28 @@
     
     <url>
     
+      <loc>/tags/high-school/</loc>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/network-inference/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/outreach/</loc>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -246,7 +293,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -266,7 +313,7 @@
     <url>
     
       <loc>/tags/reverse-engineering/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -317,6 +364,16 @@
     
       <loc>/tools/</loc>
       <lastmod>2018-07-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/undergrad-research/</loc>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

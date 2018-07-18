@@ -18,13 +18,13 @@
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/tools/tedie/</guid>
-      <description>Full description of TEDIE with documentation, downloadable data sample and appropriate links</description>
+      <description>Full description of TEDIE with 1) documentation 2) downloadable data sample 3) Link to preprint in BioArXiv (and eventually to paper)</description>
     </item>
     
     <item>
       <title>Development of Novel Network Inference Methods</title>
       <link>/project/reverseengineering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/reverseengineering/</guid>
       <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
