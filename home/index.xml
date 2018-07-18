@@ -23,12 +23,21 @@ In molecular biology the systems of our interest include gene regulatory network
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <title>Projects</title>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/publications_selected/</guid>
-      <description>&amp;dagger; indicates corresponding author, * indicates equal contribution</description>
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>/home/team/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/team/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -41,21 +50,12 @@ In molecular biology the systems of our interest include gene regulatory network
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Team</title>
-      <link>/home/researchgroup/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/home/researchgroup/</guid>
-      <description></description>
+      <guid>/home/publications_selected/</guid>
+      <description>&amp;dagger; indicates corresponding author, * indicates equal contribution</description>
     </item>
     
     <item>
