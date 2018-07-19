@@ -11,6 +11,48 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>OCSANA_V2</title>
+      <link>/tools/ocsana/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/ocsana/</guid>
+      <description>&lt;p&gt;Introduction
+Targeted therapies interfering specifically one protein activity, are promising strategies in the treatment of diseases like cancer. However, accumulated empirical experience has shown that targeting multiple proteins in signaling networks involved in the disease, is often necessary. Thus one important problem in biomedical research is the design and prioritization of optimal combinations of interventions to repress a pathological behavior, while minimizing side-effects.&lt;/p&gt;
+
+&lt;p&gt;OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between source nodes and target nodes. When specified by the user, OCSANA seeks to additionally minimize the side-effects that a combination of interventions can cause on specified off-target nodes. With the crucial ability to cope with very large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REACT</title>
+      <link>/tools/react/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/react/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Introduction:&lt;/strong&gt;The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models.&lt;/p&gt;
+
+&lt;p&gt;This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments. To infer the network topology and dynamic models, it allows for the incorporation of prior biological knowledge while being robust to significant levels of noise in the data used for inference. It uses an evolutionary algorithm for local optimization with an encoding of the mathematical models as BPDS.&lt;/p&gt;
+
+&lt;p&gt;REACT is wrapped in a Docker container based on the AlgoRun framework. You can easily run REACT from here.&lt;/p&gt;
+
+&lt;p&gt;The source code can be downloaded from our GitHub repository in here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tutorial:&lt;/strong&gt; This tutorial contains a description of the terms, parameters and features in REACT’s software. It can be downloaded here: Tutorial.pdf.&lt;/p&gt;
+
+&lt;p&gt;We also include a folder with a sample of all the input files: SampleInputFiles.zip.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;
+Paola Vera-Licona
+Abdul Jarrah
+Luis David Garcia-Puente
+John McGee
+Reinhard Laubenbacher&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contact Information:&lt;/strong&gt; Paola Vera-Licona&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>TEDIE</title>
       <link>/tools/tedie/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
@@ -144,26 +186,6 @@ For more information: &lt;a href=&#34;http://cqm.uchc.edu/biomath/&#34; target=&
       
       <guid>/team/vera-licona/</guid>
       <description>&lt;p&gt;jhb&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MD/PhD Student</title>
-      <link>/team/marazzi/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/team/marazzi/</guid>
-      <description>&lt;p&gt;jhb&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structure-Based Control of Dynamical Systems</title>
-      <link>/project/structurecontrol/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/structurecontrol/</guid>
-      <description>&lt;p&gt;Network control has been originally developed as part of systems and control theory. While the methods developed in this area have been applied successfully to many engineered and natural systems, several factors have limited its application to large complex biological systems such as cellular signaling networks. These include the limited scalability of the methods for large networks with thousands of components, incomplete information to build dynamical models with hundreds of variables, and the linearity assumption for the underlying dynamics by which bi-stability, that characterizes signaling networks, might be affected. Additionally, in many instances is neither biologically feasible nor necessary to control the full network and instead it is more realistic and sufficient to achieve targeted control, that is, a control on a subset of nodes that are essential for the system’s task. Our two major aims in this project are: (1) Design highly scalable algorithms to identify combinations of intervention nodes to achieve targeted control of large signaling networks considering different graph structures and (2) Develop efficient algorithms for the prioritization of combinations of intervention nodes given the structure of the network and quantitative data&lt;/p&gt;
 </description>
     </item>
     

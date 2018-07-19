@@ -13,6 +13,26 @@
     
     
     <item>
+      <title>OCSANA_V2</title>
+      <link>/tools/ocsana/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/ocsana/</guid>
+      <description>Introduction Targeted therapies interfering specifically one protein activity, are promising strategies in the treatment of diseases like cancer. However, accumulated empirical experience has shown that targeting multiple proteins in signaling networks involved in the disease, is often necessary. Thus one important problem in biomedical research is the design and prioritization of optimal combinations of interventions to repress a pathological behavior, while minimizing side-effects.
+OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between source nodes and target nodes.</description>
+    </item>
+    
+    <item>
+      <title>REACT</title>
+      <link>/tools/react/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/react/</guid>
+      <description>Introduction:The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models.
+This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments.</description>
+    </item>
+    
+    <item>
       <title>TEDIE</title>
       <link>/tools/tedie/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>

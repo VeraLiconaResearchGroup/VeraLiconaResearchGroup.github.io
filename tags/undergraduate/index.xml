@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undergraduate on The Vera-Licona Lab</title>
+    <link>/tags/undergraduate/</link>
+    <description>Recent content in Undergraduate on The Vera-Licona Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 28 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/undergraduate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UConn Health Summer Research Fellowship Program</title>
+      <link>/outreach/uchc.undergrad/</link>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/outreach/uchc.undergrad/</guid>
+      <description>This is a yearly summer research experiences for undergraduates run by the Department of Health Career Opportunity Programs at UConn Health through the Aetna Health Professions Partnership Initiative (Aetna HPPI). We will merge the REU activities with those of the Department of Health Career Opportunity’s Summer Research Fellowship Program, a 10-week research enrichment experience for college juniors, seniors and recent graduates. Every summer, we will receive one student from this program and incorporate her/him into the research and career development activities we coordinate through the REU program.</description>
+    </item>
+    
+  </channel>
+</rss>
