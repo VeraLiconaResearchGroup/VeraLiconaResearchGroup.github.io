@@ -41,6 +41,15 @@
     
     <url>
     
+      <loc>/team/vera-licona/</loc>
+      <lastmod>2018-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/signalingflow/</loc>
       <lastmod>2018-02-01T00:00:00+00:00</lastmod>
     </url>
@@ -159,15 +168,6 @@
     <url>
     
       <loc>/team/nwokocha/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/team/vera-licona/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -299,7 +299,7 @@
     <url>
     
       <loc>/tags/current/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -399,7 +399,7 @@
     <url>
     
       <loc>/team/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
