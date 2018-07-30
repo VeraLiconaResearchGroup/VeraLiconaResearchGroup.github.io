@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Paola Vera-Licona</title>
+      <link>/team/vera-licona/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/team/vera-licona/</guid>
+      <description>&lt;p&gt;jhb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OCSANA_V2</title>
       <link>/tools/ocsana/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
@@ -75,11 +85,31 @@ Reinhard Laubenbacher&lt;/p&gt;
     </item>
     
     <item>
-      <title>Paola Vera-Licona</title>
-      <link>/team/vera-licona/</link>
+      <title>Lauren Marazzi</title>
+      <link>/team/marazzi/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/team/marazzi/</guid>
+      <description>&lt;p&gt;jhb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Leelakrishna Channa</title>
+      <link>/team/channa/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/team/channa/</guid>
+      <description>&lt;p&gt;jhb&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Catherine Qiu</title>
+      <link>/team/qiu/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>/team/vera-licona/</guid>
+      <guid>/team/qiu/</guid>
       <description>&lt;p&gt;jhb&lt;/p&gt;
 </description>
     </item>
@@ -91,16 +121,6 @@ Reinhard Laubenbacher&lt;/p&gt;
       
       <guid>/publication/signalingflow/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Lauren Marazzi</title>
-      <link>/team/marazzi/</link>
-      <pubDate>Sat, 27 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/team/marazzi/</guid>
-      <description>&lt;p&gt;jhb&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -122,6 +142,24 @@ Reinhard Laubenbacher&lt;/p&gt;
     </item>
     
     <item>
+      <title>Luis Sordo-Vieira</title>
+      <link>/team/sordo/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/team/sordo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Gainer-Dewar</title>
+      <link>/team/gainer-dewar/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/team/gainer-dewar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Minimal Hitting Set Generation Problem: Algorithms and Computation</title>
       <link>/publication/mhss/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -137,56 +175,6 @@ Reinhard Laubenbacher&lt;/p&gt;
       
       <guid>/publication/algorun/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>QuIN: A Web Server for Querying and Visualizing Chromatin Interaction Networks</title>
-      <link>/publication/quin1/</link>
-      <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/quin1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CQM Research Experience for Undergraduates (REU)</title>
-      <link>/outreach/reu/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/outreach/reu/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Project Title&lt;/strong&gt;: Modeling and Simulation in Systems Biology
-Program Location: University of Connecticut Health Center, 263 Farmington Ave, Farmington, CT 06032
-&lt;strong&gt;Program Background&lt;/strong&gt;: A 10-week, in-residence, intensive summer research program, focused on modeling and simulation in systems biology, for U.S. citizen or permanent resident undergraduate students from around the United States and Puerto Rico.  It will provide participants with a broad view of available career opportunities for mathematical scientists in academia, industry, and government.  Participants will have the opportunity to expand their professional network of peers and mentors.
-For more information: &lt;a href=&#34;http://cqm.uchc.edu/biomath/&#34; target=&#34;_blank&#34;&gt;http://cqm.uchc.edu/biomath/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Development of Novel Network Inference Methods</title>
-      <link>/project/reverseengineering/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/reverseengineering/</guid>
-      <description>&lt;p&gt;Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:&lt;/p&gt;
-
-&lt;p&gt;(1) Data discretization,&lt;/p&gt;
-
-&lt;p&gt;(2) Static Network and Dynamical Model’s Inference,&lt;/p&gt;
-
-&lt;p&gt;(3) Validation and Benchmarking of Reverse-engineering Algorithms,&lt;/p&gt;
-
-&lt;p&gt;(4) Model Analysis and Simulation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>UConn Health Junior  &amp; Senior Doctors Academy Program</title>
-      <link>/outreach/uchc_hsprogram/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/outreach/uchc_hsprogram/</guid>
-      <description>&lt;p&gt;Outreach activities with 11th and 12th grade students through the Department of Health Career Opportunity Programs at UConn Health.  This is a program for 11th and 12th graders comprised of classes (e.g. Math and Science) and enrichment courses that include independent projects in STEM, enrichment trips and guidance in career objectives and goals. We will deliver seminars for the participant students, designed to expose them to the many possibilities on STEM career paths and how they contribute to society, including life sciences and medicine.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
