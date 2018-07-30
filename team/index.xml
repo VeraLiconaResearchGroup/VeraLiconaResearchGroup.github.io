@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>Catherine Qiu</title>
-      <link>/team/qiu/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/team/qiu/</guid>
-      <description>jhb</description>
-    </item>
-    
-    <item>
       <title>Leelakrishna Channa</title>
       <link>/team/channa/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
@@ -64,6 +55,15 @@
       
       <guid>/team/jann/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Catherine Qiu</title>
+      <link>/team/qiu/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/team/qiu/</guid>
+      <description>jhb</description>
     </item>
     
   </channel>
