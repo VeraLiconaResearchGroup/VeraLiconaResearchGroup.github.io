@@ -22,11 +22,29 @@
     </item>
     
     <item>
-      <title>MD/PhD Student</title>
+      <title>Catherine Qiu</title>
+      <link>/team/qiu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/team/qiu/</guid>
+      <description>jhb</description>
+    </item>
+    
+    <item>
+      <title>Lauren Marazzi</title>
       <link>/team/marazzi/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/team/marazzi/</guid>
+      <description>jhb</description>
+    </item>
+    
+    <item>
+      <title>Leelakrishna Channa</title>
+      <link>/team/channa/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/team/channa/</guid>
       <description>jhb</description>
     </item>
     
@@ -40,30 +58,12 @@
     </item>
     
     <item>
-      <title>Undergrad/2016 CQM REU program</title>
+      <title>Tiffany Jann</title>
       <link>/team/jann/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/team/jann/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Undergrad/Intern</title>
-      <link>/team/channa/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/team/channa/</guid>
-      <description>jhb</description>
-    </item>
-    
-    <item>
-      <title>Undergrad/Volunteer</title>
-      <link>/team/qiu/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/team/qiu/</guid>
-      <description>jhb</description>
     </item>
     
   </channel>
