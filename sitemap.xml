@@ -176,6 +176,24 @@
     
     <url>
     
+      <loc>/team/jann/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/team/nwokocha/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/team/channa/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -243,6 +261,16 @@
     
       <loc>/publication_types/6/</loc>
       <lastmod>2013-01-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/alumni/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -361,7 +389,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-07-17T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
