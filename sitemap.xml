@@ -239,6 +239,15 @@
     
     <url>
     
+      <loc>/project/tnbc/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/team/tseng/</loc>
       <lastmod>2015-06-27T00:00:00-04:00</lastmod>
     </url>
@@ -435,6 +444,16 @@
     
       <loc>/tags/structure-based-control/</loc>
       <lastmod>2018-07-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/tnbc/</loc>
+      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
