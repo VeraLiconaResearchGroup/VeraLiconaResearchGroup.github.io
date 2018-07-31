@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>DISCREETEST</title>
+      <link>/tools/discreetest/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/discreetest/</guid>
+      <description>DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series data. The underlying assumption of DiscreeTest is that an optimal discretization method should preserve the dynamic patterns observed in the original data across all variables.
+Availability: The source code of DiscreeTest is available in our Github repository: https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations</description>
+    </item>
+    
+    <item>
       <title>OCSANA_V2</title>
       <link>/tools/ocsana/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
@@ -30,15 +40,6 @@ OCSANA (Optimal Combinations of Interventions from Network Analysis) is a softwa
       <guid>/tools/react/</guid>
       <description>Introduction:The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models.
 This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments.</description>
-    </item>
-    
-    <item>
-      <title>TEDIE</title>
-      <link>/tools/tedie/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tools/tedie/</guid>
-      <description>Full description of TEDIE with 1) documentation 2) downloadable data sample 3) Link to preprint in BioArXiv (and eventually to paper)</description>
     </item>
     
   </channel>

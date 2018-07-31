@@ -21,6 +21,21 @@
     </item>
     
     <item>
+      <title>DISCREETEST</title>
+      <link>/tools/discreetest/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/discreetest/</guid>
+      <description>&lt;p&gt;DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series
+data. The underlying assumption of DiscreeTest is that an optimal discretization method should
+preserve the dynamic patterns observed in the original data across all variables.&lt;/p&gt;
+
+&lt;p&gt;Availability: The source code of DiscreeTest is available in our Github repository:
+&lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OCSANA_V2</title>
       <link>/tools/ocsana/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
@@ -59,19 +74,6 @@ John McGee
 Reinhard Laubenbacher&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Contact Information:&lt;/strong&gt; Paola Vera-Licona&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>TEDIE</title>
-      <link>/tools/tedie/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tools/tedie/</guid>
-      <description>&lt;p&gt;Full description of TEDIE with
-1) documentation
-2) downloadable data sample
-3) Link to preprint in BioArXiv (and eventually to paper)&lt;/p&gt;
 </description>
     </item>
     
