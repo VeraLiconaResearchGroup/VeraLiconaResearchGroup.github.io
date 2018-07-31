@@ -194,6 +194,15 @@
     
     <url>
     
+      <loc>/project/tnbc/</loc>
+      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/outreach/reu/</loc>
       <lastmod>2016-04-28T00:00:00-04:00</lastmod>
     </url>
@@ -231,15 +240,6 @@
     <url>
     
       <loc>/project/structurecontrol/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/tnbc/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
@@ -413,7 +413,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -453,7 +453,7 @@
     <url>
     
       <loc>/tags/tnbc/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
