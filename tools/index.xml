@@ -25,7 +25,7 @@ Availability: The source code of DiscreeTest is available in our Github reposito
     <item>
       <title>OCSANA_V2</title>
       <link>/tools/ocsana/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tools/ocsana/</guid>
       <description>Introduction Targeted therapies interfering specifically one protein activity, are promising strategies in the treatment of diseases like cancer. However, accumulated empirical experience has shown that targeting multiple proteins in signaling networks involved in the disease, is often necessary. Thus one important problem in biomedical research is the design and prioritization of optimal combinations of interventions to repress a pathological behavior, while minimizing side-effects.
@@ -33,9 +33,18 @@ OCSANA (Optimal Combinations of Interventions from Network Analysis) is a softwa
     </item>
     
     <item>
+      <title>AlgoRun</title>
+      <link>/tools/algorun/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/algorun/</guid>
+      <description>AlgoRun is a dedicated packaging system for implemented algorithms, using Docker technology. Implemented algorithms, packaged with AlgoRun, can be executed through a user-friendly interface directly from a web browser or via a standardized RESTful web API to allow easy integration into more complex workflows. The packaged algorithm includes the entire software execution environment, thereby eliminating the common problem of software dependencies and the irreproducibility of computations over time.</description>
+    </item>
+    
+    <item>
       <title>REACT</title>
       <link>/tools/react/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
       
       <guid>/tools/react/</guid>
       <description>Introduction:The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models.

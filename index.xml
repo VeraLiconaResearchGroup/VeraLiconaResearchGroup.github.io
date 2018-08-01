@@ -36,48 +36,6 @@ preserve the dynamic patterns observed in the original data across all variables
     </item>
     
     <item>
-      <title>OCSANA_V2</title>
-      <link>/tools/ocsana/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tools/ocsana/</guid>
-      <description>&lt;p&gt;Introduction
-Targeted therapies interfering specifically one protein activity, are promising strategies in the treatment of diseases like cancer. However, accumulated empirical experience has shown that targeting multiple proteins in signaling networks involved in the disease, is often necessary. Thus one important problem in biomedical research is the design and prioritization of optimal combinations of interventions to repress a pathological behavior, while minimizing side-effects.&lt;/p&gt;
-
-&lt;p&gt;OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between source nodes and target nodes. When specified by the user, OCSANA seeks to additionally minimize the side-effects that a combination of interventions can cause on specified off-target nodes. With the crucial ability to cope with very large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>REACT</title>
-      <link>/tools/react/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tools/react/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Introduction:&lt;/strong&gt;The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models.&lt;/p&gt;
-
-&lt;p&gt;This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments. To infer the network topology and dynamic models, it allows for the incorporation of prior biological knowledge while being robust to significant levels of noise in the data used for inference. It uses an evolutionary algorithm for local optimization with an encoding of the mathematical models as BPDS.&lt;/p&gt;
-
-&lt;p&gt;REACT is wrapped in a Docker container based on the AlgoRun framework. You can easily run REACT from here.&lt;/p&gt;
-
-&lt;p&gt;The source code can be downloaded from our GitHub repository in here.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tutorial:&lt;/strong&gt; This tutorial contains a description of the terms, parameters and features in REACT’s software. It can be downloaded here: Tutorial.pdf.&lt;/p&gt;
-
-&lt;p&gt;We also include a folder with a sample of all the input files: SampleInputFiles.zip.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Team:&lt;/strong&gt;
-Paola Vera-Licona
-Abdul Jarrah
-Luis David Garcia-Puente
-John McGee
-Reinhard Laubenbacher&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contact Information:&lt;/strong&gt; Paola Vera-Licona&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
       <link>/publication/discretization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
@@ -123,6 +81,19 @@ Reinhard Laubenbacher&lt;/p&gt;
       
       <guid>/publication/signalingflow/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>OCSANA_V2</title>
+      <link>/tools/ocsana/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/ocsana/</guid>
+      <description>&lt;p&gt;Introduction
+Targeted therapies interfering specifically one protein activity, are promising strategies in the treatment of diseases like cancer. However, accumulated empirical experience has shown that targeting multiple proteins in signaling networks involved in the disease, is often necessary. Thus one important problem in biomedical research is the design and prioritization of optimal combinations of interventions to repress a pathological behavior, while minimizing side-effects.&lt;/p&gt;
+
+&lt;p&gt;OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between source nodes and target nodes. When specified by the user, OCSANA seeks to additionally minimize the side-effects that a combination of interventions can cause on specified off-target nodes. With the crucial ability to cope with very large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -176,6 +147,15 @@ Reinhard Laubenbacher&lt;/p&gt;
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>/publication/algorun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erin Boggess</title>
+      <link>/team/boggess/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/team/boggess/</guid>
       <description></description>
     </item>
     

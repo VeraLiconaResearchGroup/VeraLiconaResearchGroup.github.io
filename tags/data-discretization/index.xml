@@ -23,16 +23,6 @@ Availability: The source code of DiscreeTest is available in our Github reposito
     </item>
     
     <item>
-      <title>REACT</title>
-      <link>/tools/react/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tools/react/</guid>
-      <description>Introduction:The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models.
-This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments.</description>
-    </item>
-    
-    <item>
       <title>Development of Novel Network Inference Methods</title>
       <link>/project/reverseengineering/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
@@ -43,6 +33,16 @@ This software contains a novel network inference algorithm within the algebraic 
 (2) Static Network and Dynamical Model’s Inference,
 (3) Validation and Benchmarking of Reverse-engineering Algorithms,
 (4) Model Analysis and Simulation.</description>
+    </item>
+    
+    <item>
+      <title>REACT</title>
+      <link>/tools/react/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/react/</guid>
+      <description>Introduction:The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models.
+This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments.</description>
     </item>
     
   </channel>

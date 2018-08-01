@@ -23,24 +23,6 @@
     
     <url>
     
-      <loc>/tools/ocsana/</loc>
-      <lastmod>2018-07-17T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tools/react/</loc>
-      <lastmod>2018-07-17T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/discretization/</loc>
       <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -79,6 +61,15 @@
     
       <loc>/publication/signalingflow/</loc>
       <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tools/ocsana/</loc>
+      <lastmod>2018-01-17T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -248,6 +239,24 @@
     
     <url>
     
+      <loc>/tools/algorun/</loc>
+      <lastmod>2015-07-17T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tools/react/</loc>
+      <lastmod>2015-07-17T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/team/tseng/</loc>
       <lastmod>2015-06-27T00:00:00-04:00</lastmod>
     </url>
@@ -393,7 +402,7 @@
     <url>
     
       <loc>/tags/network-inference/</loc>
-      <lastmod>2018-07-17T00:00:00-04:00</lastmod>
+      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -432,6 +441,16 @@
     
     <url>
     
+      <loc>/tags/reproducibility/</loc>
+      <lastmod>2015-07-17T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/reverse-engineering/</loc>
       <lastmod>2016-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -443,7 +462,7 @@
     <url>
     
       <loc>/tags/structure-based-control/</loc>
-      <lastmod>2018-07-17T00:00:00-04:00</lastmod>
+      <lastmod>2018-01-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

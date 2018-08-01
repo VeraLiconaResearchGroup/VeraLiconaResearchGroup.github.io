@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducibility on The Vera-Licona Lab</title>
+    <link>/tags/reproducibility/</link>
+    <description>Recent content in Reproducibility on The Vera-Licona Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 17 Jul 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AlgoRun</title>
+      <link>/tools/algorun/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/tools/algorun/</guid>
+      <description>AlgoRun is a dedicated packaging system for implemented algorithms, using Docker technology. Implemented algorithms, packaged with AlgoRun, can be executed through a user-friendly interface directly from a web browser or via a standardized RESTful web API to allow easy integration into more complex workflows. The packaged algorithm includes the entire software execution environment, thereby eliminating the common problem of software dependencies and the irreproducibility of computations over time.</description>
+    </item>
+    
+  </channel>
+</rss>

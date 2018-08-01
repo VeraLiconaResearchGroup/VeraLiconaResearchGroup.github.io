@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/structure-based-control/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>OCSANA_V2</title>
       <link>/tools/ocsana/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tools/ocsana/</guid>
       <description>Introduction Targeted therapies interfering specifically one protein activity, are promising strategies in the treatment of diseases like cancer. However, accumulated empirical experience has shown that targeting multiple proteins in signaling networks involved in the disease, is often necessary. Thus one important problem in biomedical research is the design and prioritization of optimal combinations of interventions to repress a pathological behavior, while minimizing side-effects.
