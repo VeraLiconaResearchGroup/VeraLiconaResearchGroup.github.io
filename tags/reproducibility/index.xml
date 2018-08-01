@@ -18,7 +18,8 @@
       <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
       
       <guid>/tools/algorun/</guid>
-      <description>AlgoRun is a dedicated packaging system for implemented algorithms, using Docker technology. Implemented algorithms, packaged with AlgoRun, can be executed through a user-friendly interface directly from a web browser or via a standardized RESTful web API to allow easy integration into more complex workflows. The packaged algorithm includes the entire software execution environment, thereby eliminating the common problem of software dependencies and the irreproducibility of computations over time.</description>
+      <description>AlgoRun is a dedicated packaging system for implemented algorithms, using Docker technology. Implemented algorithms, packaged with AlgoRun, can be executed through a user-friendly interface directly from a web browser or via a standardized RESTful web API to allow easy integration into more complex workflows. The packaged algorithm includes the entire software execution environment, thereby eliminating the common problem of software dependencies and the irreproducibility of computations over time.
+This project was developed in collaboration with:  Abdelrahman Hosny Thibauld Favre Reinhard Laubenbacher  Link to the paper: https://academic.</description>
     </item>
     
   </channel>
