@@ -21,17 +21,26 @@
     </item>
     
     <item>
-      <title>DISCREETEST</title>
+      <title>DiscreeTest</title>
       <link>/tools/discreetest/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/tools/discreetest/</guid>
-      <description>&lt;p&gt;DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series
 data. The underlying assumption of DiscreeTest is that an optimal discretization method should
 preserve the dynamic patterns observed in the original data across all variables.&lt;/p&gt;
 
-&lt;p&gt;Availability: The source code of DiscreeTest is available in our Github repository:
-&lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
+
+&lt;p&gt;The source code of DiscreeTest is available in our Github repository: &lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preprint&#34;&gt;Preprint&lt;/h2&gt;
+
+&lt;p&gt;Y Li, T Jann, P Vera-Licona. (2018). &lt;a href=&#34;https://veraliconaresearchgroup.github.io/publication/discretization/&#34; target=&#34;_blank&#34;&gt;Benchmarking Time-Series Data Discretization on Inference Methods&lt;/a&gt;. Submitted.&lt;/p&gt;
 </description>
     </item>
     
@@ -89,10 +98,21 @@ preserve the dynamic patterns observed in the original data across all variables
       <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tools/ocsana/</guid>
-      <description>&lt;p&gt;Introduction
-Targeted therapies interfering specifically one protein activity, are promising strategies in the treatment of diseases like cancer. However, accumulated empirical experience has shown that targeting multiple proteins in signaling networks involved in the disease, is often necessary. Thus one important problem in biomedical research is the design and prioritization of optimal combinations of interventions to repress a pathological behavior, while minimizing side-effects.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between source nodes and target nodes. When specified by the user, OCSANA seeks to additionally minimize the side-effects that a combination of interventions can cause on specified off-target nodes. With the crucial ability to cope with very large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between selected source and target nodes. When specified by the user, OCSANA seeks to additionally minimize the off-target effects that a combination of interventions can cause on specified nodes. With the crucial ability to cope with large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.&lt;/p&gt;
+
+&lt;h2 id=&#34;download-and-run&#34;&gt;Download and Run&lt;/h2&gt;
+
+&lt;p&gt;The first version of OCSANA, included in BiNoM, can be found in here: &lt;a href=&#34;http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html&#34; target=&#34;_blank&#34;&gt;http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The new version of OCSANA is a standalone Cystoscape App that works in Cytoscape 3.0 and above.&lt;/p&gt;
+
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+
+&lt;p&gt;P Vera-Licona, E Bonnet, E Barillot, A Zinovyev. &lt;a href=&#34;https://veraliconaresearchgroup.github.io/publication/ocsana/&#34; target=&#34;_blank&#34;&gt;OCSANA: optimal combinations of interventions from network analysis&lt;/a&gt;. Bioinformatics, Volume 29, Issue 12, 15 June 2013, Pages 1571–1573, 2013.&lt;/p&gt;
 </description>
     </item>
     
