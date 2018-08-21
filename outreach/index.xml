@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 28 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/outreach/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big Genomic Data Skills Training for Professors (CT)</title>
+      <link>/outreach/bigdataprofs/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/outreach/bigdataprofs/</guid>
+      <description>Project Title Modeling and Simulation in Systems Biology
+Program Location Center for Quantitative Medicine, University of Connecticut Health Center, 263 Farmington Ave, Farmington, CT 06032
+Program Background This program at The Jackson Laboratory for Genomic Medicine is funded by the NIH Big Data to Knowledge (BD2K) Initiative. The purpose of the course is to offer training to professors from small colleges, regional universities, HBCU and INBRE institutions in big data-computational biology.</description>
+    </item>
     
     <item>
       <title>NSF Summer Research Experience for Undergraduates</title>
