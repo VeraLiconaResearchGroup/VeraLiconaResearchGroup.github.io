@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Alumni</title>
       <link>/tags/alumni/</link>
-      <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 +0200</pubDate>
       
       <guid>/tags/alumni/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Boolean-networks</title>
       <link>/tags/boolean-networks/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/boolean-networks/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Current</title>
       <link>/tags/current/</link>
-      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/current/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Data-discretization</title>
       <link>/tags/data-discretization/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/tags/data-discretization/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Discrete-modeling</title>
       <link>/tags/discrete-modeling/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/discrete-modeling/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>High-school</title>
       <link>/tags/high-school/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/high-school/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Network-inference</title>
       <link>/tags/network-inference/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/network-inference/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Reproducibility</title>
       <link>/tags/reproducibility/</link>
-      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0200</pubDate>
       
       <guid>/tags/reproducibility/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Reverse-engineering</title>
       <link>/tags/reverse-engineering/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/reverse-engineering/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Structure-based-control</title>
       <link>/tags/structure-based-control/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>/tags/structure-based-control/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>TNBC</title>
       <link>/tags/tnbc/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 27 May 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/tnbc/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Undergraduate</title>
       <link>/tags/undergraduate/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/tags/undergraduate/</guid>
       <description></description>

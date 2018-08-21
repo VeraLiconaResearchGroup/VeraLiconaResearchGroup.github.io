@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/tags/data-discretization/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>DiscreeTest</title>
       <link>/tools/discreetest/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/tools/discreetest/</guid>
       <description>Description DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series data. The underlying assumption of DiscreeTest is that an optimal discretization method should preserve the dynamic patterns observed in the original data across all variables.
@@ -26,7 +26,7 @@ Preprint Y Li, T Jann, P Vera-Licona. (2018). Benchmarking Time-Series Data Disc
     <item>
       <title>Development of Novel Network Inference Methods</title>
       <link>/project/reverseengineering/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 28 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/project/reverseengineering/</guid>
       <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
@@ -39,7 +39,7 @@ Preprint Y Li, T Jann, P Vera-Licona. (2018). Benchmarking Time-Series Data Disc
     <item>
       <title>REACT</title>
       <link>/tools/react/</link>
-      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0200</pubDate>
       
       <guid>/tools/react/</guid>
       <description>Introduction The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models. This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments.</description>
