@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network-analysis on The Vera-Licona Lab</title>
+    <link>/tags/network-analysis/</link>
+    <description>Recent content in Network-analysis on The Vera-Licona Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OCSANA_V2</title>
+      <link>/tools/ocsana/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tools/ocsana/</guid>
+      <description>Description OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between selected source and target nodes. When specified by the user, OCSANA seeks to additionally minimize the off-target effects that a combination of interventions can cause on specified nodes. With the crucial ability to cope with large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.</description>
+    </item>
+    
+    <item>
+      <title>QuIN</title>
+      <link>/tools/quin/</link>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 +0200</pubDate>
+      
+      <guid>/tools/quin/</guid>
+      <description>Recent studies of the human genome have indicated that regulatory elements (e.g. promoters and enhancers) at distal genomic locations can interact with each other via chromatin folding and affect gene expression levels. Genomic technologies for mapping interactions between DNA regions, e.g., ChIA-PET and HiC, can generate genome-wide maps of interactions between regulatory elements. These interaction datasets are important resources to infer distal gene targets of non-coding regulatory elements and to facilitate prioritization of critical loci for important cellular functions.</description>
+    </item>
+    
+  </channel>
+</rss>
