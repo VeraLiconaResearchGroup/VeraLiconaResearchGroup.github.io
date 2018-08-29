@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tools/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>DiscreeTest</title>
       <link>/tools/discreetest/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/tools/discreetest/</guid>
       <description>Description DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series data. The underlying assumption of DiscreeTest is that an optimal discretization method should preserve the dynamic patterns observed in the original data across all variables.
@@ -26,7 +26,7 @@ Preprint Y Li, T Jann, P Vera-Licona. (2018). Benchmarking Time-Series Data Disc
     <item>
       <title>OCSANA_V2</title>
       <link>/tools/ocsana/</link>
-      <pubDate>Wed, 17 Jan 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
       <guid>/tools/ocsana/</guid>
       <description>Description OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between selected source and target nodes. When specified by the user, OCSANA seeks to additionally minimize the off-target effects that a combination of interventions can cause on specified nodes. With the crucial ability to cope with large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.</description>
@@ -35,7 +35,7 @@ Preprint Y Li, T Jann, P Vera-Licona. (2018). Benchmarking Time-Series Data Disc
     <item>
       <title>AlgoRun</title>
       <link>/tools/algorun/</link>
-      <pubDate>Fri, 17 Jul 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
       
       <guid>/tools/algorun/</guid>
       <description>AlgoRun is a dedicated packaging system for implemented algorithms, using Docker technology. Implemented algorithms, packaged with AlgoRun, can be executed through a user-friendly interface directly from a web browser or via a standardized RESTful web API to allow easy integration into more complex workflows. The packaged algorithm includes the entire software execution environment, thereby eliminating the common problem of software dependencies and the irreproducibility of computations over time.
@@ -45,7 +45,7 @@ This project was developed in collaboration with:  Abdelrahman Hosny Thibauld Fa
     <item>
       <title>QuIN</title>
       <link>/tools/quin/</link>
-      <pubDate>Fri, 17 Jul 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
       
       <guid>/tools/quin/</guid>
       <description>Recent studies of the human genome have indicated that regulatory elements (e.g. promoters and enhancers) at distal genomic locations can interact with each other via chromatin folding and affect gene expression levels. Genomic technologies for mapping interactions between DNA regions, e.g., ChIA-PET and HiC, can generate genome-wide maps of interactions between regulatory elements. These interaction datasets are important resources to infer distal gene targets of non-coding regulatory elements and to facilitate prioritization of critical loci for important cellular functions.</description>
@@ -54,7 +54,7 @@ This project was developed in collaboration with:  Abdelrahman Hosny Thibauld Fa
     <item>
       <title>REACT</title>
       <link>/tools/react/</link>
-      <pubDate>Fri, 17 Jul 2015 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
       
       <guid>/tools/react/</guid>
       <description>Introduction The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models. This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments.</description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
       <description>The Vera-Licona Research Group Our research is at the intersection of computational systems medicine and systems biology, mathematical biology and bioinformatics. We work on the design, software development and application of mathematical algorithms for the modeling, simulation and control of biological systems.
@@ -25,7 +25,7 @@ In molecular biology the systems of our interest include gene regulatory network
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -34,7 +34,7 @@ In molecular biology the systems of our interest include gene regulatory network
     <item>
       <title>Team</title>
       <link>/home/team/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/team/</guid>
       <description></description>
@@ -43,7 +43,7 @@ In molecular biology the systems of our interest include gene regulatory network
     <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publications/</guid>
       <description>&amp;dagger; indicates corresponding author, * indicates equal contribution</description>
@@ -52,7 +52,7 @@ In molecular biology the systems of our interest include gene regulatory network
     <item>
       <title>Preprints</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -61,7 +61,7 @@ In molecular biology the systems of our interest include gene regulatory network
     <item>
       <title>Tools</title>
       <link>/home/tools/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/tools/</guid>
       <description></description>
@@ -70,7 +70,7 @@ In molecular biology the systems of our interest include gene regulatory network
     <item>
       <title>Education &amp; Outreach</title>
       <link>/home/outreach/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/outreach/</guid>
       <description>Our research group is involved in several education and outreach activities and programs throughout the year. Here is a list of some relevant ones.</description>
@@ -79,7 +79,7 @@ In molecular biology the systems of our interest include gene regulatory network
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>
