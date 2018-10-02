@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyme on The Vera-Licona Lab</title>
+    <link>/tags/lyme/</link>
+    <description>Recent content in Lyme on The Vera-Licona Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/lyme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MyD88-dependent and -independent phagosomal signals in Macrophage mediated recognition and clearance of Borrelia burgdorferi (Lyme disease spirochete)</title>
+      <link>/project/lymedisease/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/lymedisease/</guid>
+      <description>Lyme disease is a highly prevalent tick-borne illness caused by the spirochetal bacterium Borrelia burgdorferi (Bb). There is a wide spectrum of clinical manifestations seen in Lyme disease which vary in severity between patients. The macrophage is a principal component of the innate immune response and has been observed at sites of Bb infection. Macrophages have the phagocytic and signaling machinery necessary to bind, engulf, and degrade Bb.
+Previous studies by our collaborator, Dr.</description>
+    </item>
+    
+  </channel>
+</rss>
