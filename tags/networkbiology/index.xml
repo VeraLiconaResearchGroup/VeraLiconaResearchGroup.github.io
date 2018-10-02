@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networkbiology on The Vera-Licona Lab</title>
+    <link>/tags/networkbiology/</link>
+    <description>Recent content in Networkbiology on The Vera-Licona Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/networkbiology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Structure-Based Control of Dynamical Systems</title>
+      <link>/project/structurecontrol/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/structurecontrol/</guid>
+      <description>Network control has been originally developed as part of systems and control theory. While the methods developed in this area have been applied successfully to many engineered and natural systems, several factors have limited its application to large complex biological systems such as cellular signaling networks. These include the limited scalability of the methods for large networks with thousands of components, incomplete information to build dynamical models with hundreds of variables, and the linearity assumption for the underlying dynamics by which bi-stability, that characterizes signaling networks, might be affected.</description>
+    </item>
+    
+  </channel>
+</rss>
