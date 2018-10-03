@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer on The Vera-Licona Lab</title>
+    <link>/tags/cancer/</link>
+    <description>Recent content in Cancer on The Vera-Licona Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 May 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mathematical Model Control to Reverse Cisplatin Resistance in Triple Negative Breast Cancer</title>
+      <link>/project/tnbc_math/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/tnbc_math/</guid>
+      <description>Triple-negative breast cancers (TNBCs) are a unique group of clinically aggressive breast cancers for which surgery and chemotherapy are the only available therapeutic modalities. Dr. Ed Liu and his lab, identified a genomic configuration called the tandem duplicator phenotype (TDP) that defines a major subgroup of TNBC. TDP tumors are initially highly sensitive to cisplatin. Despite their initial responsiveness, they develop resistance to cisplatin therapy. The challenge addressed by the proposed project is to test and validate an analysis pipeline to identify therapeutic interventions to reverse cisplatin resistance in TNBC.</description>
+    </item>
+    
+    <item>
+      <title>Structure-based Control to Reverse Cisplatin Resistance in Triple Negative Breast Cancer</title>
+      <link>/project/tnbc/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/tnbc/</guid>
+      <description>Triple-negative breast cancers (TNBCs) are a unique group of clinically aggressive breast cancers for which surgery and chemotherapy are the only available therapeutic modalities. Dr. Ed Liu and his lab, identified a genomic configuration called the tandem duplicator phenotype (TDP) that defines a major subgroup of TNBC. TDP tumors are initially highly sensitive to cisplatin. Despite their initial responsiveness, they develop resistance to cisplatin therapy. The challenge addressed by the proposed project is to test and validate an analysis pipeline to identify therapeutic interventions to reverse cisplatin resistance in TNBC.</description>
+    </item>
+    
+  </channel>
+</rss>
