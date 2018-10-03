@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TeachersTraining on The Vera-Licona Lab</title>
+    <link>/tags/teacherstraining/</link>
+    <description>Recent content in TeachersTraining on The Vera-Licona Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 28 Apr 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/teacherstraining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Genomic Data Skills Training for Professors (CT)</title>
+      <link>/outreach/bigdataprofs/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/outreach/bigdataprofs/</guid>
+      <description>Project Title Big Genomic Data Skills Training for Professors (CT)
+Program Location The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032
+Program Background This program is funded by the NIH Big Data to Knowledge (BD2K) Initiative. The purpose of the course is to offer training to professors from small colleges, regional universities, HBCU and INBRE institutions in big data-computational biology. The goal of the program is to enable professors to launch Big Data or Computational Biology courses at their home institutions.</description>
+    </item>
+    
+  </channel>
+</rss>
