@@ -58,15 +58,6 @@
     </item>
     
     <item>
-      <title>The Minimal Hitting Set Generation Problem: Algorithms and Computation</title>
-      <link>/publication/mathed1/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/mathed1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AlgoRun: a Docker-based packaging system for platform-agnostic implemented algorithms</title>
       <link>/publication/algorun/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
@@ -108,6 +99,15 @@
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>/publication/modelgenes1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Systems Biology: Discrete Models of Gene Regulation Networks</title>
+      <link>/publication/mathed1/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mathed1/</guid>
       <description></description>
     </item>
     
