@@ -50,6 +50,42 @@
     
     <url>
     
+      <loc>/outreach/bigdataprofs/</loc>
+      <lastmod>2018-04-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/outreach/sysbio/</loc>
+      <lastmod>2018-04-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/outreach/topicsbioinf/</loc>
+      <lastmod>2018-04-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/outreach/reu/</loc>
+      <lastmod>2018-04-28T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/team/qiu/</loc>
       <lastmod>2018-04-27T00:00:00-04:00</lastmod>
     </url>
@@ -124,33 +160,6 @@
     
       <loc>/outreach/avonhs/</loc>
       <lastmod>2017-05-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/outreach/bigdataprofs/</loc>
-      <lastmod>2017-04-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/outreach/sysbio/</loc>
-      <lastmod>2017-04-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/outreach/topicsbioinf/</loc>
-      <lastmod>2017-04-28T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -267,15 +276,6 @@
     <url>
     
       <loc>/project/reverseengineering/</loc>
-      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/outreach/reu/</loc>
       <lastmod>2016-04-28T00:00:00-04:00</lastmod>
     </url>
     
@@ -530,7 +530,7 @@
     <url>
     
       <loc>/tags/graduate/</loc>
-      <lastmod>2017-04-28T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -600,7 +600,7 @@
     <url>
     
       <loc>/outreach/</loc>
-      <lastmod>2017-05-28T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -680,7 +680,7 @@
     <url>
     
       <loc>/tags/teacherstraining/</loc>
-      <lastmod>2017-04-28T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -720,7 +720,7 @@
     <url>
     
       <loc>/tags/undergraduate/</loc>
-      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
