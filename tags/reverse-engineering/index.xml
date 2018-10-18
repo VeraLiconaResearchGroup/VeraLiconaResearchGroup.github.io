@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reverse-engineering on The Vera-Licona Lab</title>
-    <link>/tags/reverse-engineering/</link>
+    <link>http://veraliconalab.org/tags/reverse-engineering/</link>
     <description>Recent content in Reverse-engineering on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 28 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/reverse-engineering/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://veraliconalab.org/tags/reverse-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development of Novel Network Inference Methods</title>
-      <link>/project/reverseengineering/</link>
+      <link>http://veraliconalab.org/project/reverseengineering/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/reverseengineering/</guid>
+      <guid>http://veraliconalab.org/project/reverseengineering/</guid>
       <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
 (1) Data discretization,
 (2) Static Network and Dynamical Model’s Inference,

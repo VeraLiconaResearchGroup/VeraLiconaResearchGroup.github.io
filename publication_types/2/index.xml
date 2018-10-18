@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on The Vera-Licona Lab</title>
-    <link>/publication_types/2/</link>
+    <link>http://veraliconalab.org/publication_types/2/</link>
     <description>Recent content in 2 on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://veraliconalab.org/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
-      <link>/publication/discretization/</link>
+      <link>http://veraliconalab.org/publication/discretization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/discretization/</guid>
+      <guid>http://veraliconalab.org/publication/discretization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing Signal Transduction in signaling networks modeled as Boolean Networks, Petri Nets and hypergraphs</title>
-      <link>/publication/signalingflow/</link>
+      <link>http://veraliconalab.org/publication/signalingflow/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/signalingflow/</guid>
+      <guid>http://veraliconalab.org/publication/signalingflow/</guid>
       <description></description>
     </item>
     

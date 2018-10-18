@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network-Biology on The Vera-Licona Lab</title>
-    <link>/tags/network-biology/</link>
+    <link>http://veraliconalab.org/tags/network-biology/</link>
     <description>Recent content in Network-Biology on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 27 May 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/network-biology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://veraliconalab.org/tags/network-biology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Structure-based Control to Reverse Cisplatin Resistance in Triple Negative Breast Cancer</title>
-      <link>/project/tnbc/</link>
+      <link>http://veraliconalab.org/project/tnbc/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/tnbc/</guid>
+      <guid>http://veraliconalab.org/project/tnbc/</guid>
       <description>Triple-negative breast cancers (TNBCs) are a unique group of clinically aggressive breast cancers for which surgery and chemotherapy are the only available therapeutic modalities. Dr. Ed Liu and his lab, identified a genomic configuration called the tandem duplicator phenotype (TDP) that defines a major subgroup of TNBC. TDP tumors are initially highly sensitive to cisplatin. Despite their initial responsiveness, they develop resistance to cisplatin therapy. The challenge addressed by the proposed project is to test and validate an analysis pipeline to identify therapeutic interventions to reverse cisplatin resistance in TNBC.</description>
     </item>
     
     <item>
       <title>MyD88-dependent and -independent phagosomal signals in Macrophage mediated recognition and clearance of Borrelia burgdorferi (Lyme disease spirochete)</title>
-      <link>/project/lymedisease/</link>
+      <link>http://veraliconalab.org/project/lymedisease/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/lymedisease/</guid>
+      <guid>http://veraliconalab.org/project/lymedisease/</guid>
       <description>Lyme disease is a highly prevalent tick-borne illness caused by the spirochetal bacterium Borrelia burgdorferi (Bb). The macrophage is a principal component of the innate immune response and has been observed at sites of Bb infection. Macrophages have the phagocytic and signaling machinery necessary to bind, engulf, and degrade Bb.
 Previous studies by our collaborator, The Salazar and Hawley lab, have emphasized that uptake and degradation of Bb by phagocytic cells, including monocytes and macrophages, are critical in eliciting the inflammatory response to the bacterium.</description>
     </item>
     
     <item>
       <title>Structure-Based Control of Dynamical Systems</title>
-      <link>/project/structurecontrol/</link>
+      <link>http://veraliconalab.org/project/structurecontrol/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/structurecontrol/</guid>
+      <guid>http://veraliconalab.org/project/structurecontrol/</guid>
       <description>Network control has been originally developed as part of systems and control theory. While the methods developed in this area have been applied successfully to many engineered and natural systems, several factors have limited its application to large complex biological systems such as cellular signaling networks. These include the limited scalability of the methods for large networks with thousands of components, incomplete information to build dynamical models with hundreds of variables, and the linearity assumption for the underlying dynamics by which bi-stability, that characterizes signaling networks, might be affected.</description>
     </item>
     
     <item>
       <title>Tissue-resident Macrophage Mechanisms for Pathogen Clearance</title>
-      <link>/project/khannamacs/</link>
+      <link>http://veraliconalab.org/project/khannamacs/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/khannamacs/</guid>
+      <guid>http://veraliconalab.org/project/khannamacs/</guid>
       <description>The importance of tissue-resident macrophages for tissue surveillance and homeostasis is emerging. We want to gain an understading to ultimately have the ability to reprogram the mechanisms of tissue-resident macrophages for pathogen clearance and regulation of related mechanisms such as inflammation. We are collaborating with Dr. Kamal Khanna with two tissue-resident macrophage populations:
  Lung: The lung is a very complex organ with specialized structures to allow for adequate gas exchange.</description>
     </item>

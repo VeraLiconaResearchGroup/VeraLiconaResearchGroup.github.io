@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Network-inference on The Vera-Licona Lab</title>
-    <link>/tags/network-inference/</link>
+    <link>http://veraliconalab.org/tags/network-inference/</link>
     <description>Recent content in Network-inference on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 28 Apr 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/network-inference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://veraliconalab.org/tags/network-inference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development of Novel Network Inference Methods</title>
-      <link>/project/reverseengineering/</link>
+      <link>http://veraliconalab.org/project/reverseengineering/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>/project/reverseengineering/</guid>
+      <guid>http://veraliconalab.org/project/reverseengineering/</guid>
       <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
 (1) Data discretization,
 (2) Static Network and Dynamical Model’s Inference,
@@ -27,10 +27,10 @@
     
     <item>
       <title>REACT</title>
-      <link>/tools/react/</link>
+      <link>http://veraliconalab.org/tools/react/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
       
-      <guid>/tools/react/</guid>
+      <guid>http://veraliconalab.org/tools/react/</guid>
       <description>Introduction The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models. This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments.</description>
     </item>
     
