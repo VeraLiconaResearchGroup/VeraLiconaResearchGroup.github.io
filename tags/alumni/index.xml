@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alumni on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/tags/alumni/</link>
+    <link>/tags/alumni/</link>
     <description>Recent content in Alumni on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 27 Jul 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://veraliconalab.org/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Luis Sordo-Vieira</title>
-      <link>http://veraliconalab.org/team/sordo/</link>
+      <link>/team/sordo/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/sordo/</guid>
+      <guid>/team/sordo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andrew Gainer-Dewar</title>
-      <link>http://veraliconalab.org/team/gainer-dewar/</link>
+      <link>/team/gainer-dewar/</link>
       <pubDate>Tue, 27 Jun 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/gainer-dewar/</guid>
+      <guid>/team/gainer-dewar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erin Boggess</title>
-      <link>http://veraliconalab.org/team/boggess/</link>
+      <link>/team/boggess/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/boggess/</guid>
+      <guid>/team/boggess/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mark Nwokocha</title>
-      <link>http://veraliconalab.org/team/nwokocha/</link>
+      <link>/team/nwokocha/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/nwokocha/</guid>
+      <guid>/team/nwokocha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiffany Jann</title>
-      <link>http://veraliconalab.org/team/jann/</link>
+      <link>/team/jann/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/jann/</guid>
+      <guid>/team/jann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vishal Shah</title>
-      <link>http://veraliconalab.org/team/shah/</link>
+      <link>/team/shah/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/shah/</guid>
+      <guid>/team/shah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christopher Tseng</title>
-      <link>http://veraliconalab.org/team/tseng/</link>
+      <link>/team/tseng/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/tseng/</guid>
+      <guid>/team/tseng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shichao Wang</title>
-      <link>http://veraliconalab.org/team/wang/</link>
+      <link>/team/wang/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/wang/</guid>
+      <guid>/team/wang/</guid>
       <description></description>
     </item>
     

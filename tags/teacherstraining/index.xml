@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TeachersTraining on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/tags/teacherstraining/</link>
+    <link>/tags/teacherstraining/</link>
     <description>Recent content in TeachersTraining on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 28 Apr 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://veraliconalab.org/tags/teacherstraining/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/teacherstraining/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Big Genomic Data Skills Training for Professors (CT)</title>
-      <link>http://veraliconalab.org/outreach/bigdataprofs/</link>
+      <link>/outreach/bigdataprofs/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/bigdataprofs/</guid>
+      <guid>/outreach/bigdataprofs/</guid>
       <description>Project Title Big Genomic Data Skills Training for Professors (CT)
 Program Location The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032
 Program Background This program is funded by the NIH Big Data to Knowledge (BD2K) Initiative. The purpose of the course is to offer training to professors from small colleges, regional universities, HBCU and INBRE institutions in big data-computational biology. The goal of the program is to enable professors to launch Big Data or Computational Biology courses at their home institutions.</description>
@@ -25,10 +25,10 @@ Program Background This program is funded by the NIH Big Data to Knowledge (BD2
     
     <item>
       <title> Model Your Genes the Mathematical Way II</title>
-      <link>http://veraliconalab.org/outreach/modelyourgenes/</link>
+      <link>/outreach/modelyourgenes/</link>
       <pubDate>Sat, 28 Apr 2007 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/modelyourgenes/</guid>
+      <guid>/outreach/modelyourgenes/</guid>
       <description>Project Title Big Genomic Data Skills Training for Professors (CT)
 Program Location The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032
 Program Background Under the collaborative effort of the Biocomplexity Institute (then Virginia Bioinformatics Institute) and the Institute of Advanced Learning and Research, we organized a mathematical biology workshop for secondary school teachers of the Danville area in Virginia, USA. The goal of the workshop was to enable teams of teachers with biology and mathematics expertise to incorporate lesson plans in mathematical modeling into the curriculum.</description>

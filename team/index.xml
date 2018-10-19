@@ -2,131 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/team/</link>
+    <link>/team/</link>
     <description>Recent content in Teams on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 27 Jul 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://veraliconalab.org/team/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Paola Vera-Licona</title>
-      <link>http://veraliconalab.org/team/vera-licona/</link>
+      <link>/team/vera-licona/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/vera-licona/</guid>
+      <guid>/team/vera-licona/</guid>
       <description>Dr. Vera-Licona is the group leader of the Computational Systems Medicine Lab at the Center for Quantitative Medicine UConn Health. She has extensive experience in the development and application of mathematical and computational tools for the modeling, simulation, analysis and control of biological networks. She is an interdisciplinary scientist, with a background in mathematics and computational systems biology.
 CV</description>
     </item>
     
     <item>
       <title>Lauren Marazzi</title>
-      <link>http://veraliconalab.org/team/marazzi/</link>
+      <link>/team/marazzi/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/marazzi/</guid>
+      <guid>/team/marazzi/</guid>
       <description>Lauren is an MD/PhD student from the University of Connecticut School of Medicine. She is working on quantitative analysis of cancer reversion through mathematical control approaches.</description>
     </item>
     
     <item>
       <title>Maddie Gastonguay</title>
-      <link>http://veraliconalab.org/team/gastonguay/</link>
+      <link>/team/gastonguay/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/gastonguay/</guid>
+      <guid>/team/gastonguay/</guid>
       <description>Maddie is a UConn Honors Program student doing major in Applied Mathematics and a minor in Bioinformatics and French.</description>
     </item>
     
     <item>
       <title>Catherine Qiu</title>
-      <link>http://veraliconalab.org/team/qiu/</link>
+      <link>/team/qiu/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/qiu/</guid>
+      <guid>/team/qiu/</guid>
       <description>Catherine is a pre-med student pursuing a double degree in Molecular &amp;amp; Cell Biology and Mathematics-Statistics.</description>
     </item>
     
     <item>
       <title>Leelakrishna Channa</title>
-      <link>http://veraliconalab.org/team/channa/</link>
+      <link>/team/channa/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/channa/</guid>
+      <guid>/team/channa/</guid>
       <description>jhb</description>
     </item>
     
     <item>
       <title>Luis Sordo-Vieira</title>
-      <link>http://veraliconalab.org/team/sordo/</link>
+      <link>/team/sordo/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/sordo/</guid>
+      <guid>/team/sordo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andrew Gainer-Dewar</title>
-      <link>http://veraliconalab.org/team/gainer-dewar/</link>
+      <link>/team/gainer-dewar/</link>
       <pubDate>Tue, 27 Jun 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/gainer-dewar/</guid>
+      <guid>/team/gainer-dewar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erin Boggess</title>
-      <link>http://veraliconalab.org/team/boggess/</link>
+      <link>/team/boggess/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/boggess/</guid>
+      <guid>/team/boggess/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mark Nwokocha</title>
-      <link>http://veraliconalab.org/team/nwokocha/</link>
+      <link>/team/nwokocha/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/nwokocha/</guid>
+      <guid>/team/nwokocha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tiffany Jann</title>
-      <link>http://veraliconalab.org/team/jann/</link>
+      <link>/team/jann/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/jann/</guid>
+      <guid>/team/jann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vishal Shah</title>
-      <link>http://veraliconalab.org/team/shah/</link>
+      <link>/team/shah/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/shah/</guid>
+      <guid>/team/shah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christopher Tseng</title>
-      <link>http://veraliconalab.org/team/tseng/</link>
+      <link>/team/tseng/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/tseng/</guid>
+      <guid>/team/tseng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shichao Wang</title>
-      <link>http://veraliconalab.org/team/wang/</link>
+      <link>/team/wang/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/wang/</guid>
+      <guid>/team/wang/</guid>
       <description></description>
     </item>
     

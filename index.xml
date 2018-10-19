@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Vera-Licona Lab on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/</link>
+    <link>/</link>
     <description>Recent content in The Vera-Licona Lab on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Paola Vera-Licona</title>
-      <link>http://veraliconalab.org/team/vera-licona/</link>
+      <link>/team/vera-licona/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/vera-licona/</guid>
+      <guid>/team/vera-licona/</guid>
       <description>&lt;p&gt;Dr. Vera-Licona is the group leader of the Computational Systems Medicine Lab at
 the Center for Quantitative Medicine UConn Health. She has extensive experience in the development and application of mathematical and computational tools for the modeling, simulation, analysis and control of biological networks. She is an interdisciplinary scientist, with a background in mathematics and computational systems biology.&lt;/p&gt;
 
@@ -25,10 +25,10 @@ the Center for Quantitative Medicine UConn Health. She has extensive experience 
     
     <item>
       <title>DiscreeTest</title>
-      <link>http://veraliconalab.org/tools/discreetest/</link>
+      <link>/tools/discreetest/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tools/discreetest/</guid>
+      <guid>/tools/discreetest/</guid>
       <description>
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
@@ -49,39 +49,39 @@ preserve the dynamic patterns observed in the original data across all variables
     
     <item>
       <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
-      <link>http://veraliconalab.org/publication/discretization/</link>
+      <link>/publication/discretization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/discretization/</guid>
+      <guid>/publication/discretization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lauren Marazzi</title>
-      <link>http://veraliconalab.org/team/marazzi/</link>
+      <link>/team/marazzi/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/marazzi/</guid>
+      <guid>/team/marazzi/</guid>
       <description>&lt;p&gt;Lauren is an MD/PhD student from the University of Connecticut School of Medicine. She is working on quantitative analysis of cancer reversion through mathematical control approaches.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Maddie Gastonguay</title>
-      <link>http://veraliconalab.org/team/gastonguay/</link>
+      <link>/team/gastonguay/</link>
       <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/gastonguay/</guid>
+      <guid>/team/gastonguay/</guid>
       <description>&lt;p&gt;Maddie is a UConn Honors Program student doing major in Applied Mathematics and a minor in Bioinformatics and French.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Big Genomic Data Skills Training for Professors (CT)</title>
-      <link>http://veraliconalab.org/outreach/bigdataprofs/</link>
+      <link>/outreach/bigdataprofs/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/bigdataprofs/</guid>
+      <guid>/outreach/bigdataprofs/</guid>
       <description>
 
 &lt;h2 id=&#34;project-title&#34;&gt;Project Title&lt;/h2&gt;
@@ -108,10 +108,10 @@ preserve the dynamic patterns observed in the original data across all variables
     
     <item>
       <title>MEDS 6455: Introduction to Systems Biology</title>
-      <link>http://veraliconalab.org/outreach/sysbio/</link>
+      <link>/outreach/sysbio/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/sysbio/</guid>
+      <guid>/outreach/sysbio/</guid>
       <description>
 
 &lt;h2 id=&#34;course-number-and-title&#34;&gt;Course Number and Title&lt;/h2&gt;
@@ -134,10 +134,10 @@ preserve the dynamic patterns observed in the original data across all variables
     
     <item>
       <title>MEDS6498: Topics in Bioinformatics and Computational  Biology</title>
-      <link>http://veraliconalab.org/outreach/topicsbioinf/</link>
+      <link>/outreach/topicsbioinf/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/topicsbioinf/</guid>
+      <guid>/outreach/topicsbioinf/</guid>
       <description>
 
 &lt;h2 id=&#34;course-number-and-title&#34;&gt;Course Number and Title&lt;/h2&gt;
@@ -160,10 +160,10 @@ preserve the dynamic patterns observed in the original data across all variables
     
     <item>
       <title>NSF Summer Research Experience for Undergraduates</title>
-      <link>http://veraliconalab.org/outreach/reu/</link>
+      <link>/outreach/reu/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/reu/</guid>
+      <guid>/outreach/reu/</guid>
       <description>
 
 &lt;h2 id=&#34;project-title&#34;&gt;Project Title&lt;/h2&gt;
@@ -209,39 +209,39 @@ Students: Katherine Thai (Rutgers University) and Luke Wohlford (University of A
     
     <item>
       <title>Catherine Qiu</title>
-      <link>http://veraliconalab.org/team/qiu/</link>
+      <link>/team/qiu/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/qiu/</guid>
+      <guid>/team/qiu/</guid>
       <description>&lt;p&gt;Catherine is a pre-med student pursuing a double degree in Molecular &amp;amp; Cell Biology and Mathematics-Statistics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Leelakrishna Channa</title>
-      <link>http://veraliconalab.org/team/channa/</link>
+      <link>/team/channa/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/team/channa/</guid>
+      <guid>/team/channa/</guid>
       <description>&lt;p&gt;jhb&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Computing Signal Transduction in signaling networks modeled as Boolean Networks, Petri Nets and hypergraphs</title>
-      <link>http://veraliconalab.org/publication/signalingflow/</link>
+      <link>/publication/signalingflow/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/signalingflow/</guid>
+      <guid>/publication/signalingflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OCSANA_V2</title>
-      <link>http://veraliconalab.org/tools/ocsana/</link>
+      <link>/tools/ocsana/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://veraliconalab.org/tools/ocsana/</guid>
+      <guid>/tools/ocsana/</guid>
       <description>
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
@@ -262,19 +262,19 @@ Students: Katherine Thai (Rutgers University) and Luke Wohlford (University of A
     
     <item>
       <title>Chromatin interaction networks revealed unique connectivity patterns of broad H3K4me3 domains and super enhancers in 3D chromatin</title>
-      <link>http://veraliconalab.org/publication/quin2/</link>
+      <link>/publication/quin2/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/quin2/</guid>
+      <guid>/publication/quin2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CD169&#43; marginal zone macrophages orchestrate innate immune responses to bacterial infection</title>
-      <link>http://veraliconalab.org/publication/spleenmacs/</link>
+      <link>/publication/spleenmacs/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/spleenmacs/</guid>
+      <guid>/publication/spleenmacs/</guid>
       <description></description>
     </item>
     

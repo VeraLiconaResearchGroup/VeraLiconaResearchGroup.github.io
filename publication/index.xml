@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/publication/</link>
+    <link>/publication/</link>
     <description>Recent content in Publications on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://veraliconalab.org/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
-      <link>http://veraliconalab.org/publication/discretization/</link>
+      <link>/publication/discretization/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/discretization/</guid>
+      <guid>/publication/discretization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computing Signal Transduction in signaling networks modeled as Boolean Networks, Petri Nets and hypergraphs</title>
-      <link>http://veraliconalab.org/publication/signalingflow/</link>
+      <link>/publication/signalingflow/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/signalingflow/</guid>
+      <guid>/publication/signalingflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chromatin interaction networks revealed unique connectivity patterns of broad H3K4me3 domains and super enhancers in 3D chromatin</title>
-      <link>http://veraliconalab.org/publication/quin2/</link>
+      <link>/publication/quin2/</link>
       <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/quin2/</guid>
+      <guid>/publication/quin2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CD169&#43; marginal zone macrophages orchestrate innate immune responses to bacterial infection</title>
-      <link>http://veraliconalab.org/publication/spleenmacs/</link>
+      <link>/publication/spleenmacs/</link>
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/spleenmacs/</guid>
+      <guid>/publication/spleenmacs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Minimal Hitting Set Generation Problem: Algorithms and Computation</title>
-      <link>http://veraliconalab.org/publication/mhss/</link>
+      <link>/publication/mhss/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/mhss/</guid>
+      <guid>/publication/mhss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AlgoRun: a Docker-based packaging system for platform-agnostic implemented algorithms</title>
-      <link>http://veraliconalab.org/publication/algorun/</link>
+      <link>/publication/algorun/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/algorun/</guid>
+      <guid>/publication/algorun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuIN: A Web Server for Querying and Visualizing Chromatin Interaction Networks</title>
-      <link>http://veraliconalab.org/publication/quin1/</link>
+      <link>/publication/quin1/</link>
       <pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/quin1/</guid>
+      <guid>/publication/quin1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An algebra-based method for inferring gene regulatory networks</title>
-      <link>http://veraliconalab.org/publication/react/</link>
+      <link>/publication/react/</link>
       <pubDate>Wed, 26 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/react/</guid>
+      <guid>/publication/react/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OCSANA: optimal combinations of interventions from network analysis</title>
-      <link>http://veraliconalab.org/publication/ocsana/</link>
+      <link>/publication/ocsana/</link>
       <pubDate>Sat, 15 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/ocsana/</guid>
+      <guid>/publication/ocsana/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational systems biology: Discrete models of gene regulation networks</title>
-      <link>http://veraliconalab.org/publication/modelgenes1/</link>
+      <link>/publication/modelgenes1/</link>
       <pubDate>Thu, 10 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://veraliconalab.org/publication/modelgenes1/</guid>
+      <guid>/publication/modelgenes1/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Structure-based-control on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/tags/structure-based-control/</link>
+    <link>/tags/structure-based-control/</link>
     <description>Recent content in Structure-based-control on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://veraliconalab.org/tags/structure-based-control/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/structure-based-control/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>OCSANA_V2</title>
-      <link>http://veraliconalab.org/tools/ocsana/</link>
+      <link>/tools/ocsana/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://veraliconalab.org/tools/ocsana/</guid>
+      <guid>/tools/ocsana/</guid>
       <description>Description OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between selected source and target nodes. When specified by the user, OCSANA seeks to additionally minimize the off-target effects that a combination of interventions can cause on specified nodes. With the crucial ability to cope with large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.</description>
     </item>
     

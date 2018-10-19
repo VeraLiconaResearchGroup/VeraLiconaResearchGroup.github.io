@@ -2,202 +2,202 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 27 Jul 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://veraliconalab.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alumni</title>
-      <link>http://veraliconalab.org/tags/alumni/</link>
+      <link>/tags/alumni/</link>
       <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/alumni/</guid>
+      <guid>/tags/alumni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Boolean-networks</title>
-      <link>http://veraliconalab.org/tags/boolean-networks/</link>
+      <link>/tags/boolean-networks/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/boolean-networks/</guid>
+      <guid>/tags/boolean-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cancer</title>
-      <link>http://veraliconalab.org/tags/cancer/</link>
+      <link>/tags/cancer/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/cancer/</guid>
+      <guid>/tags/cancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CancerReversion</title>
-      <link>http://veraliconalab.org/tags/cancerreversion/</link>
+      <link>/tags/cancerreversion/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/cancerreversion/</guid>
+      <guid>/tags/cancerreversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Control</title>
-      <link>http://veraliconalab.org/tags/control/</link>
+      <link>/tags/control/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/control/</guid>
+      <guid>/tags/control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current</title>
-      <link>http://veraliconalab.org/tags/current/</link>
+      <link>/tags/current/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/current/</guid>
+      <guid>/tags/current/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-discretization</title>
-      <link>http://veraliconalab.org/tags/data-discretization/</link>
+      <link>/tags/data-discretization/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/data-discretization/</guid>
+      <guid>/tags/data-discretization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrete-modeling</title>
-      <link>http://veraliconalab.org/tags/discrete-modeling/</link>
+      <link>/tags/discrete-modeling/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/discrete-modeling/</guid>
+      <guid>/tags/discrete-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graduate</title>
-      <link>http://veraliconalab.org/tags/graduate/</link>
+      <link>/tags/graduate/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/graduate/</guid>
+      <guid>/tags/graduate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-school</title>
-      <link>http://veraliconalab.org/tags/high-school/</link>
+      <link>/tags/high-school/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/high-school/</guid>
+      <guid>/tags/high-school/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lyme</title>
-      <link>http://veraliconalab.org/tags/lyme/</link>
+      <link>/tags/lyme/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/lyme/</guid>
+      <guid>/tags/lyme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Macs</title>
-      <link>http://veraliconalab.org/tags/macs/</link>
+      <link>/tags/macs/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/macs/</guid>
+      <guid>/tags/macs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network-Biology</title>
-      <link>http://veraliconalab.org/tags/network-biology/</link>
+      <link>/tags/network-biology/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/network-biology/</guid>
+      <guid>/tags/network-biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network-analysis</title>
-      <link>http://veraliconalab.org/tags/network-analysis/</link>
+      <link>/tags/network-analysis/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://veraliconalab.org/tags/network-analysis/</guid>
+      <guid>/tags/network-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network-inference</title>
-      <link>http://veraliconalab.org/tags/network-inference/</link>
+      <link>/tags/network-inference/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/network-inference/</guid>
+      <guid>/tags/network-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducibility</title>
-      <link>http://veraliconalab.org/tags/reproducibility/</link>
+      <link>/tags/reproducibility/</link>
       <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/reproducibility/</guid>
+      <guid>/tags/reproducibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reverse-engineering</title>
-      <link>http://veraliconalab.org/tags/reverse-engineering/</link>
+      <link>/tags/reverse-engineering/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/reverse-engineering/</guid>
+      <guid>/tags/reverse-engineering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structure-based-control</title>
-      <link>http://veraliconalab.org/tags/structure-based-control/</link>
+      <link>/tags/structure-based-control/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://veraliconalab.org/tags/structure-based-control/</guid>
+      <guid>/tags/structure-based-control/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TNBC</title>
-      <link>http://veraliconalab.org/tags/tnbc/</link>
+      <link>/tags/tnbc/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/tnbc/</guid>
+      <guid>/tags/tnbc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TeachersTraining</title>
-      <link>http://veraliconalab.org/tags/teacherstraining/</link>
+      <link>/tags/teacherstraining/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/teacherstraining/</guid>
+      <guid>/tags/teacherstraining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Undergraduate</title>
-      <link>http://veraliconalab.org/tags/undergraduate/</link>
+      <link>/tags/undergraduate/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/tags/undergraduate/</guid>
+      <guid>/tags/undergraduate/</guid>
       <description></description>
     </item>
     

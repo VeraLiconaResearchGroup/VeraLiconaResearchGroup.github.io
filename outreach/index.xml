@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Outreaches on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/outreach/</link>
+    <link>/outreach/</link>
     <description>Recent content in Outreaches on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 28 Apr 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://veraliconalab.org/outreach/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/outreach/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Big Genomic Data Skills Training for Professors (CT)</title>
-      <link>http://veraliconalab.org/outreach/bigdataprofs/</link>
+      <link>/outreach/bigdataprofs/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/bigdataprofs/</guid>
+      <guid>/outreach/bigdataprofs/</guid>
       <description>Project Title Big Genomic Data Skills Training for Professors (CT)
 Program Location The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032
 Program Background This program is funded by the NIH Big Data to Knowledge (BD2K) Initiative. The purpose of the course is to offer training to professors from small colleges, regional universities, HBCU and INBRE institutions in big data-computational biology. The goal of the program is to enable professors to launch Big Data or Computational Biology courses at their home institutions.</description>
@@ -25,10 +25,10 @@ Program Background This program is funded by the NIH Big Data to Knowledge (BD2
     
     <item>
       <title>MEDS 6455: Introduction to Systems Biology</title>
-      <link>http://veraliconalab.org/outreach/sysbio/</link>
+      <link>/outreach/sysbio/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/sysbio/</guid>
+      <guid>/outreach/sysbio/</guid>
       <description>Course Number and Title MEDS 6455: Introduction to Systems Biology
 Course Description The course will guide students into a biology world as seen by engineers, physicists, mathematicians and computer scientists. The goal is to provide the necessary background to read modeling papers, choose Systems Biology resources that will help in biological projects, and be able to select a modeling technique appropriate for a given biological project.
 Vera-Licona&amp;rsquo;s Research Group Involvement Dr.</description>
@@ -36,20 +36,20 @@ Vera-Licona&amp;rsquo;s Research Group Involvement Dr.</description>
     
     <item>
       <title>MEDS6498: Topics in Bioinformatics and Computational  Biology</title>
-      <link>http://veraliconalab.org/outreach/topicsbioinf/</link>
+      <link>/outreach/topicsbioinf/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/topicsbioinf/</guid>
+      <guid>/outreach/topicsbioinf/</guid>
       <description>Course Number and Title MEDS6498; Topics in Bioinformatics and Computational Biology.
 Course Description The focus of the course is on the study of cutting edge computational problems related to the study and treatment of diseases, and discussion of relevant technologies. The course provides a practical introduction to current bioinformatics and computational biology topics of interest in cancer biology, immunology, microbiome and statistical genetics research, along with genomics, systems biology, single cell technologies, and cloud-based computing.</description>
     </item>
     
     <item>
       <title>NSF Summer Research Experience for Undergraduates</title>
-      <link>http://veraliconalab.org/outreach/reu/</link>
+      <link>/outreach/reu/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/reu/</guid>
+      <guid>/outreach/reu/</guid>
       <description>Project Title Modeling and Simulation in Systems Biology
 Program Location Center for Quantitative Medicine, University of Connecticut Health Center, 263 Farmington Ave, Farmington, CT 06032
 Program Background A 10-week, in-residence, intensive summer research program, focused on modeling and simulation in systems biology, for U.S. citizen or permanent resident undergraduate students from around the United States and Puerto Rico. It will provide participants with a broad view of available career opportunities for mathematical scientists in academia, industry, and government.</description>
@@ -57,10 +57,10 @@ Program Background A 10-week, in-residence, intensive summer research program, 
     
     <item>
       <title>Avon High School Internship Program</title>
-      <link>http://veraliconalab.org/outreach/avonhs/</link>
+      <link>/outreach/avonhs/</link>
       <pubDate>Sun, 28 May 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/avonhs/</guid>
+      <guid>/outreach/avonhs/</guid>
       <description>This is a yearly summer internship program for high school students at Avon High School.
 Vera-Licona&amp;rsquo;s Research Group Involvement Dr. Vera-Licona has been a mentor:
 Summer 2017 Project Title: Building Reproducible and Shareable Pipelines in Computational Biology
@@ -69,28 +69,28 @@ Student: Vishal Shah</description>
     
     <item>
       <title>UConn Health Junior  &amp; Senior Doctors Academy Program</title>
-      <link>http://veraliconalab.org/outreach/uchc_hsprogram/</link>
+      <link>/outreach/uchc_hsprogram/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/uchc_hsprogram/</guid>
+      <guid>/outreach/uchc_hsprogram/</guid>
       <description>Outreach activities with 11th and 12th grade students through the Department of Health Career Opportunity Programs at UConn Health. This is a program for 11th and 12th graders comprised of classes (e.g. Math and Science) and enrichment courses that include independent projects in STEM, enrichment trips and guidance in career objectives and goals. We will deliver seminars for the participant students, designed to expose them to the many possibilities on STEM career paths and how they contribute to society, including life sciences and medicine.</description>
     </item>
     
     <item>
       <title>UConn Health Summer Research Fellowship Program</title>
-      <link>http://veraliconalab.org/outreach/uchc.undergrad/</link>
+      <link>/outreach/uchc.undergrad/</link>
       <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/uchc.undergrad/</guid>
+      <guid>/outreach/uchc.undergrad/</guid>
       <description>This is a yearly summer research experiences for undergraduates run by the Department of Health Career Opportunity Programs at UConn Health through the Aetna Health Professions Partnership Initiative (Aetna HPPI). We will merge the REU activities with those of the Department of Health Career Opportunity’s Summer Research Fellowship Program, a 10-week research enrichment experience for college juniors, seniors and recent graduates. Every summer, we will receive one student from this program and incorporate her/him into the research and career development activities we coordinate through the REU program.</description>
     </item>
     
     <item>
       <title> Model Your Genes the Mathematical Way II</title>
-      <link>http://veraliconalab.org/outreach/modelyourgenes/</link>
+      <link>/outreach/modelyourgenes/</link>
       <pubDate>Sat, 28 Apr 2007 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/outreach/modelyourgenes/</guid>
+      <guid>/outreach/modelyourgenes/</guid>
       <description>Project Title Big Genomic Data Skills Training for Professors (CT)
 Program Location The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032
 Program Background Under the collaborative effort of the Biocomplexity Institute (then Virginia Bioinformatics Institute) and the Institute of Advanced Learning and Research, we organized a mathematical biology workshop for secondary school teachers of the Danville area in Virginia, USA. The goal of the workshop was to enable teams of teachers with biology and mathematics expertise to incorporate lesson plans in mathematical modeling into the curriculum.</description>

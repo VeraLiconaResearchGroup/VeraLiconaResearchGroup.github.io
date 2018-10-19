@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TNBC on The Vera-Licona Lab</title>
-    <link>http://veraliconalab.org/tags/tnbc/</link>
+    <link>/tags/tnbc/</link>
     <description>Recent content in TNBC on The Vera-Licona Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 27 May 2016 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://veraliconalab.org/tags/tnbc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/tnbc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cancer Reversion: Computational Systems Biology Approaches</title>
-      <link>http://veraliconalab.org/project/cancerreversion/</link>
+      <link>/project/cancerreversion/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/project/cancerreversion/</guid>
+      <guid>/project/cancerreversion/</guid>
       <description>Cancer reversion is the biological process by which tumorigenic cells lose all, or a significant part of, their malignant phenotype. The objective of this project is to develop and apply novel computational systems biology tools to identify molecular drivers of cancer reversion, their mechanisms of action and their clinical application.</description>
     </item>
     
     <item>
       <title>Mathematical Model Control to Reverse Cisplatin Resistance in Triple Negative Breast Cancer</title>
-      <link>http://veraliconalab.org/project/tnbc_math/</link>
+      <link>/project/tnbc_math/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/project/tnbc_math/</guid>
+      <guid>/project/tnbc_math/</guid>
       <description>Triple-negative breast cancers (TNBCs) are a unique group of clinically aggressive breast cancers for which surgery and chemotherapy are the only available therapeutic modalities. Dr. Ed Liu and his lab, identified a genomic configuration called the tandem duplicator phenotype (TDP) that defines a major subgroup of TNBC. TDP tumors are initially highly sensitive to cisplatin. Despite their initial responsiveness, they develop resistance to cisplatin therapy. The challenge addressed by the proposed project is to test and validate an analysis pipeline to identify therapeutic interventions to reverse cisplatin resistance in TNBC.</description>
     </item>
     
     <item>
       <title>Structure-based Control to Reverse Cisplatin Resistance in Triple Negative Breast Cancer</title>
-      <link>http://veraliconalab.org/project/tnbc/</link>
+      <link>/project/tnbc/</link>
       <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
       
-      <guid>http://veraliconalab.org/project/tnbc/</guid>
+      <guid>/project/tnbc/</guid>
       <description>Triple-negative breast cancers (TNBCs) are a unique group of clinically aggressive breast cancers for which surgery and chemotherapy are the only available therapeutic modalities. Dr. Ed Liu and his lab, identified a genomic configuration called the tandem duplicator phenotype (TDP) that defines a major subgroup of TNBC. TDP tumors are initially highly sensitive to cisplatin. Despite their initial responsiveness, they develop resistance to cisplatin therapy. The challenge addressed by the proposed project is to test and validate an analysis pipeline to identify therapeutic interventions to reverse cisplatin resistance in TNBC.</description>
     </item>
     
