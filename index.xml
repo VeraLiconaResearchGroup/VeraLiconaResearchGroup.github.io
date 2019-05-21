@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
+      <link>/publication/discretization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/discretization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Paola Vera-Licona</title>
       <link>/team/vera-licona/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
@@ -45,15 +54,6 @@ preserve the dynamic patterns observed in the original data across all variables
 
 &lt;p&gt;Y Li, T Jann, P Vera-Licona. (2018). &lt;a href=&#34;https://veraliconaresearchgroup.github.io/publication/discretization/&#34; target=&#34;_blank&#34;&gt;Benchmarking Time-Series Data Discretization on Inference Methods&lt;/a&gt;. Submitted.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
-      <link>/publication/discretization/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/discretization/</guid>
-      <description></description>
     </item>
     
     <item>
