@@ -11,15 +11,6 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Emily Paul</title>
-      <link>/team/paul/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/team/paul/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
       <link>/publication/discretization/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -271,6 +262,15 @@ Students: Katherine Thai (Rutgers University) and Luke Wohlford (University of A
       <pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/spleenmacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Sordo-Vieira</title>
+      <link>/team/sordo/</link>
+      <pubDate>Thu, 27 Jul 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/team/sordo/</guid>
       <description></description>
     </item>
     
