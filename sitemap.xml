@@ -23,24 +23,6 @@
     
     <url>
     
-      <loc>/team/marazzi/</loc>
-      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/team/gastonguay/</loc>
-      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/outreach/bigdataprofs/</loc>
       <lastmod>2018-04-28T00:00:00-04:00</lastmod>
     </url>
@@ -365,15 +347,6 @@
     
     <url>
     
-      <loc>/team/vera-licona/</loc>
-      <lastmod>2014-01-27T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/ocsana/</loc>
       <lastmod>2013-06-15T00:00:00+00:00</lastmod>
     </url>
@@ -491,7 +464,6 @@
     <url>
     
       <loc>/tags/current/</loc>
-      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -548,6 +520,14 @@
     
     <url>
     
+      <loc>/team/marazzi/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/lyme/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -561,6 +541,14 @@
       <loc>/tags/macs/</loc>
       <lastmod>2016-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/team/gastonguay/</loc>
     </url>
     
   
@@ -601,6 +589,14 @@
       <loc>/outreach/</loc>
       <lastmod>2018-04-28T00:00:00-04:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/team/vera-licona/</loc>
     </url>
     
   
@@ -689,7 +685,7 @@
     <url>
     
       <loc>/team/</loc>
-      <lastmod>2018-06-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-04-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

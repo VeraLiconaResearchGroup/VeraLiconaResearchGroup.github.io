@@ -44,26 +44,6 @@ preserve the dynamic patterns observed in the original data across all variables
     </item>
     
     <item>
-      <title>Lauren Marazzi</title>
-      <link>/team/marazzi/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/team/marazzi/</guid>
-      <description>&lt;p&gt;Lauren is an MD/PhD student from the University of Connecticut School of Medicine. She is working on quantitative analysis of cancer reversion through mathematical control approaches.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Maddie Gastonguay</title>
-      <link>/team/gastonguay/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/team/gastonguay/</guid>
-      <description>&lt;p&gt;Maddie is a UConn Honors Program student doing major in Applied Mathematics and a minor in Bioinformatics and French.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Big Genomic Data Skills Training for Professors (CT)</title>
       <link>/outreach/bigdataprofs/</link>
       <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
@@ -272,6 +252,37 @@ Students: Katherine Thai (Rutgers University) and Luke Wohlford (University of A
       
       <guid>/team/sordo/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Gainer-Dewar</title>
+      <link>/team/gainer-dewar/</link>
+      <pubDate>Tue, 27 Jun 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/team/gainer-dewar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avon High School Internship Program</title>
+      <link>/outreach/avonhs/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/outreach/avonhs/</guid>
+      <description>
+
+&lt;p&gt;This is a yearly summer internship program for high school students at Avon High School.&lt;/p&gt;
+
+&lt;h2 id=&#34;vera-licona-s-research-group-involvement&#34;&gt;Vera-Licona&amp;rsquo;s Research Group Involvement&lt;/h2&gt;
+
+&lt;p&gt;Dr. Vera-Licona has been a mentor:&lt;/p&gt;
+
+&lt;h4 id=&#34;summer-2017&#34;&gt;Summer 2017&lt;/h4&gt;
+
+&lt;p&gt;Project Title: &lt;a href=&#34;https://drive.google.com/file/d/16Rm4rI7SZG5C7rVKzIYpn9X-aZ2KrOYY/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;Building Reproducible and Shareable Pipelines in Computational Biology&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Student: &lt;a href=&#34;https://vishalmshah.github.io/#&#34; target=&#34;_blank&#34;&gt;Vishal Shah&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
