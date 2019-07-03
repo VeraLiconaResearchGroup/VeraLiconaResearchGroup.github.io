@@ -5,8 +5,8 @@
     
     <url>
     
-      <loc>/publication/discretization/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <loc>/team/paul/</loc>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -14,8 +14,8 @@
     
     <url>
     
-      <loc>/team/vera-licona/</loc>
-      <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+      <loc>/publication/discretization/</loc>
+      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -374,6 +374,15 @@
     
     <url>
     
+      <loc>/team/vera-licona/</loc>
+      <lastmod>2014-01-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/ocsana/</loc>
       <lastmod>2013-06-15T00:00:00+00:00</lastmod>
     </url>
@@ -491,7 +500,7 @@
     <url>
     
       <loc>/tags/current/</loc>
-      <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -513,14 +522,6 @@
       <loc>/tags/discrete-modeling/</loc>
       <lastmod>2016-05-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/team/paul/</loc>
     </url>
     
   
@@ -689,7 +690,7 @@
     <url>
     
       <loc>/team/</loc>
-      <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
