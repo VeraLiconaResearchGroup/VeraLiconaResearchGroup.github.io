@@ -71,6 +71,29 @@ the Center for Quantitative Medicine UConn Health. She has extensive experience 
     </item>
     
     <item>
+      <title>OCSANA&#43;</title>
+      <link>/tools/ocsana_plus/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/ocsana_plus/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;OCSANA+ is a Cytoscape app for identifying driver nodes that control non-linear systems’ long-term dynamics, prioritizing combinations of interventions in large scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure. OCSANA+ includes an update to the previously introduced OCSANA (optimal combinations of interventions from network analysis) software tool with cutting-edge and rigorously tested algorithms, together with recently-developed structure-based control algorithms for non-linear systems and an algorithm for estimating the signal flow. All these algorithms are based on the network’s topology.&lt;/p&gt;
+
+&lt;h2 id=&#34;download-and-run&#34;&gt;Download and Run&lt;/h2&gt;
+
+&lt;p&gt;OCSANA+ is implemented as a Cytoscape app to enable a straightforward user interface for running analyses and visualizing results. OCSANA+ can be downloaded from The Cytoscape App store: &lt;a href=&#34;http://apps.cytoscape.org/apps/ocsana&#34; target=&#34;_blank&#34;&gt;http://apps.cytoscape.org/apps/ocsana&lt;/a&gt;
+The source code can be found in &lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;publications-preprint&#34;&gt;Publications (Preprint)&lt;/h2&gt;
+
+&lt;p&gt;L Marazzi, A Gainer-Dewar, P Vera-Licona. OCSANA+: Optimal Control and Simulation of Signaling Networks from Network Analysis. bioRxiv 806315; &lt;a href=&#34;https://doi.org/10.1101/806315&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1101/806315&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
       <link>/publication/discretization/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -252,15 +275,6 @@ Students: Katherine Thai (Rutgers University) and Luke Wohlford (University of A
       <guid>/team/channa/</guid>
       <description>&lt;p&gt;jhb&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Computing Signal Transduction in signaling networks modeled as Boolean Networks, Petri Nets and hypergraphs</title>
-      <link>/publication/signalingflow/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/signalingflow/</guid>
-      <description></description>
     </item>
     
   </channel>

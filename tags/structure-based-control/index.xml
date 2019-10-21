@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/structure-based-control/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>OCSANA_V2</title>
+      <title>OCSANA&#43;</title>
+      <link>/tools/ocsana_plus/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/ocsana_plus/</guid>
+      <description>Description OCSANA+ is a Cytoscape app for identifying driver nodes that control non-linear systems’ long-term dynamics, prioritizing combinations of interventions in large scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure. OCSANA+ includes an update to the previously introduced OCSANA (optimal combinations of interventions from network analysis) software tool with cutting-edge and rigorously tested algorithms, together with recently-developed structure-based control algorithms for non-linear systems and an algorithm for estimating the signal flow.</description>
+    </item>
+    
+    <item>
+      <title>OCSANA</title>
       <link>/tools/ocsana/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 -0500</pubDate>
       
