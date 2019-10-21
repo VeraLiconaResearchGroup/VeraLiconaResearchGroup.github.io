@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 17 Nov 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/data-discretization/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>DiscreeTest</title>
       <link>/tools/discreetest/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>/tools/discreetest/</guid>
       <description>Description DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series data. The underlying assumption of DiscreeTest is that an optimal discretization method should preserve the dynamic patterns observed in the original data across all variables.

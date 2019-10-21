@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>/tools/ocsana_plus/</loc>
+      <lastmod>2019-10-17T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/ocsana_plus/</loc>
       <lastmod>2019-08-01T00:00:00+00:00</lastmod>
     </url>
@@ -59,15 +68,6 @@
     
     <url>
     
-      <loc>/tools/ocsana_plus/</loc>
-      <lastmod>2019-01-17T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/discretization/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -78,7 +78,7 @@
     <url>
     
       <loc>/tools/discreetest/</loc>
-      <lastmod>2018-07-17T00:00:00-04:00</lastmod>
+      <lastmod>2018-11-17T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -149,15 +149,6 @@
     
     <url>
     
-      <loc>/tools/ocsana/</loc>
-      <lastmod>2018-01-17T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication/quin2/</loc>
       <lastmod>2017-10-31T00:00:00+00:00</lastmod>
     </url>
@@ -178,6 +169,15 @@
     
       <loc>/team/sordo/</loc>
       <lastmod>2017-07-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tools/quin/</loc>
+      <lastmod>2017-07-17T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -223,6 +223,15 @@
     
       <loc>/publication/mhss/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tools/algorun/</loc>
+      <lastmod>2016-12-17T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -356,24 +365,6 @@
     
     <url>
     
-      <loc>/tools/algorun/</loc>
-      <lastmod>2015-07-17T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tools/quin/</loc>
-      <lastmod>2015-07-17T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tools/react/</loc>
       <lastmod>2015-07-17T00:00:00-04:00</lastmod>
     </url>
@@ -394,6 +385,15 @@
     
       <loc>/team/wang/</loc>
       <lastmod>2015-06-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tools/ocsana/</loc>
+      <lastmod>2015-01-17T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -478,7 +478,7 @@
     <url>
     
       <loc>/tags/boolean-networks/</loc>
-      <lastmod>2018-07-17T00:00:00-04:00</lastmod>
+      <lastmod>2018-11-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -537,7 +537,7 @@
     <url>
     
       <loc>/tags/data-discretization/</loc>
-      <lastmod>2018-07-17T00:00:00-04:00</lastmod>
+      <lastmod>2018-11-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -607,7 +607,7 @@
     <url>
     
       <loc>/tags/network-analysis/</loc>
-      <lastmod>2019-01-17T00:00:00-05:00</lastmod>
+      <lastmod>2019-10-17T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -657,7 +657,7 @@
     <url>
     
       <loc>/tags/reproducibility/</loc>
-      <lastmod>2015-07-17T00:00:00-04:00</lastmod>
+      <lastmod>2016-12-17T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -677,7 +677,7 @@
     <url>
     
       <loc>/tags/structure-based-control/</loc>
-      <lastmod>2019-01-17T00:00:00-05:00</lastmod>
+      <lastmod>2019-10-17T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -737,7 +737,7 @@
     <url>
     
       <loc>/tools/</loc>
-      <lastmod>2019-01-17T00:00:00-05:00</lastmod>
+      <lastmod>2019-10-17T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
