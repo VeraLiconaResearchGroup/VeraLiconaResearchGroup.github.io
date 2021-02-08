@@ -41,6 +41,15 @@
     
     <url>
     
+      <loc>/team/travis/</loc>
+      <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/team/gastonguay/</loc>
       <lastmod>2019-05-27T00:00:00-04:00</lastmod>
     </url>
@@ -50,7 +59,16 @@
     
     <url>
     
-      <loc>/team/paul/</loc>
+      <loc>/team/emily/</loc>
+      <lastmod>2019-05-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/team/zuizz/</loc>
       <lastmod>2019-05-01T00:00:00-04:00</lastmod>
     </url>
     
@@ -437,6 +455,22 @@
     
     <url>
     
+      <loc>/team/milan/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/team/shree/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/1/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -468,7 +502,7 @@
     <url>
     
       <loc>/tags/alumni/</loc>
-      <lastmod>2018-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2019-05-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -697,7 +731,7 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2018-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2019-05-27T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
