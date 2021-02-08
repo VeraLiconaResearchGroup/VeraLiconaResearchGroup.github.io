@@ -32,7 +32,7 @@
 
 &lt;h2 id=&#34;publications-preprint&#34;&gt;Publications (Preprint)&lt;/h2&gt;
 
-&lt;p&gt;L Marazzi, A Gainer-Dewar, P Vera-Licona. OCSANA+: Optimal Control and Simulation of Signaling Networks from Network Analysis. bioRxiv 806315; &lt;a href=&#34;https://doi.org/10.1101/806315&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1101/806315&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;L Marazzi, A Gainer-Dewar, P Vera-Licona. 2020. OCSANA+: Optimal Control and Simulation of Signaling Networks from Network Analysis. Bioinformatics. Preprint bioRxiv 806315; &lt;a href=&#34;https://doi.org/10.1101/806315&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1101/806315&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -69,21 +69,11 @@ the Center for Quantitative Medicine UConn Health. She has extensive experience 
     </item>
     
     <item>
-      <title>Maddie Gastonguay</title>
-      <link>/team/gastonguay/</link>
-      <pubDate>Mon, 27 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/team/gastonguay/</guid>
-      <description>&lt;p&gt;Maddie is a UConn Honors Program student doing major in Applied Mathematics and a minor in Bioinformatics and French.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Emily Paul</title>
-      <link>/team/paul/</link>
+      <link>/team/emily/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>/team/paul/</guid>
+      <guid>/team/emily/</guid>
       <description></description>
     </item>
     
@@ -278,6 +268,15 @@ Students: Katherine Thai (Rutgers University) and Luke Wohlford (University of A
       <guid>/team/channa/</guid>
       <description>&lt;p&gt;jhb&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Computing Signal Transduction in signaling networks modeled as Boolean Networks, Petri Nets and hypergraphs</title>
+      <link>/publication/signalingflow/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/signalingflow/</guid>
+      <description></description>
     </item>
     
   </channel>
