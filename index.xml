@@ -110,19 +110,22 @@
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 
-&lt;p&gt;OCSANA+ is a Cytoscape app for identifying driver nodes that control non-linear systems’ long-term dynamics, prioritizing combinations of interventions in large scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure. OCSANA+ includes an update to the previously introduced OCSANA (optimal combinations of interventions from network analysis) software tool with cutting-edge and rigorously tested algorithms, together with recently-developed structure-based control algorithms for non-linear systems and an algorithm for estimating the signal flow. All these algorithms are based on the network’s topology.&lt;/p&gt;
+&lt;p&gt;OCSANA+ is a Cytoscape app for identifying driver nodes that control non-linear systems’ long-term dynamics, prioritizing combinations of interventions in large scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure. OCSANA+ includes an update to the previously introduced OCSANA (optimal combinations of interventions from network analysis) software tool with cutting-edge and rigorously tested algorithms, together with recently-developed structure-based control algorithms for non-linear systems and an algorithm for estimating the signal flow. All these algorithms are based on the network’s topology. OCSANA+ is implemented as a Cytoscape app to enable a straightforward user interface for running analyses and visualizing results.&lt;/p&gt;
 
-&lt;h2 id=&#34;download-and-run&#34;&gt;Download and Run&lt;/h2&gt;
+&lt;p&gt;#### Link to the paper:
+&lt;a href=&#34;https://academic.oup.com/bioinformatics/article-abstract/36/19/4960/5872521&#34; target=&#34;_blank&#34;&gt;https://academic.oup.com/bioinformatics/article-abstract/36/19/4960/5872521&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;OCSANA+ is implemented as a Cytoscape app to enable a straightforward user interface for running analyses and visualizing results.&lt;/p&gt;
+&lt;h4 id=&#34;github-repository-with-algorun-source-code&#34;&gt;Github repository with AlgoRun source code:&lt;/h4&gt;
 
-&lt;p&gt;OCSANA+ can be downloaded from the Cytoscape App store at &lt;a href=&#34;http://apps.cytoscape.org/apps/ocsana&#34; target=&#34;_blank&#34;&gt;http://apps.cytoscape.org/apps/ocsana&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The source code can be found in &lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;ocsana-in-the-cytoscape-app-store&#34;&gt;OCSANA+ in the Cytoscape App store&lt;/h4&gt;
 
-&lt;h2 id=&#34;publications-preprint&#34;&gt;Publications (Preprint)&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;http://apps.cytoscape.org/apps/ocsana&#34; target=&#34;_blank&#34;&gt;http://apps.cytoscape.org/apps/ocsana&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;L Marazzi, A Gainer-Dewar, P Vera-Licona. 2020. OCSANA+: Optimal Control and Simulation of Signaling Networks from Network Analysis. Bioinformatics. Preprint bioRxiv 806315; &lt;a href=&#34;https://doi.org/10.1101/806315&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1101/806315&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;ocsana-website&#34;&gt;OCSANA+ website:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://veraliconaresearchgroup.github.io/OCSANA-Plus/&#34; target=&#34;_blank&#34;&gt;https://veraliconaresearchgroup.github.io/OCSANA-Plus/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
