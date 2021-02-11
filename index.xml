@@ -11,6 +11,178 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>OCSANA&#43;</title>
+      <link>/tools/ocsana_plus/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/ocsana_plus/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;OCSANA+ is a Cytoscape app for identifying driver nodes that control non-linear systems’ long-term dynamics, prioritizing combinations of interventions in large scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure. OCSANA+ includes an update to the previously introduced OCSANA (optimal combinations of interventions from network analysis) software tool with cutting-edge and rigorously tested algorithms, together with recently-developed structure-based control algorithms for non-linear systems and an algorithm for estimating the signal flow. All these algorithms are based on the network’s topology. OCSANA+ is implemented as a Cytoscape app to enable a straightforward user interface for running analyses and visualizing results.&lt;/p&gt;
+
+&lt;h4 id=&#34;link-to-the-paper&#34;&gt;Link to the paper:&lt;/h4&gt;
+
+&lt;p&gt;Marazzi, L., Gainer-Dewar, A., and Vera-Licona, P. (2020). &lt;a href=&#34;https://academic.oup.com/bioinformatics/article-abstract/36/19/4960/5872521&#34; target=&#34;_blank&#34;&gt;OCSANA+: optimal control and simulation of signaling networks from network analysis&lt;/a&gt;. Bioinformatics 36, 4960–4962. doi: 10.1093/bioinformatics/btaa625.&lt;/p&gt;
+
+&lt;h4 id=&#34;github-repository-with-source-code&#34;&gt;Github repository with source code:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ocsana-in-the-cytoscape-app-store&#34;&gt;OCSANA+ in the Cytoscape App store&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://apps.cytoscape.org/apps/ocsana&#34; target=&#34;_blank&#34;&gt;http://apps.cytoscape.org/apps/ocsana&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ocsana-website&#34;&gt;OCSANA+ website:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://veraliconaresearchgroup.github.io/OCSANA-Plus/&#34; target=&#34;_blank&#34;&gt;https://veraliconaresearchgroup.github.io/OCSANA-Plus/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OCSANA</title>
+      <link>/tools/ocsana/</link>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/ocsana/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between selected source and target nodes. When specified by the user, OCSANA seeks to additionally minimize the off-target effects that a combination of interventions can cause on specified nodes. With the crucial ability to cope with large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.&lt;/p&gt;
+
+&lt;h4 id=&#34;link-to-the-paper&#34;&gt;Link to the paper:&lt;/h4&gt;
+
+&lt;p&gt;P Vera-Licona, E Bonnet, E Barillot, A Zinovyev.(2013). &lt;a href=&#34;https://veraliconaresearchgroup.github.io/publication/ocsana/&#34; target=&#34;_blank&#34;&gt;OCSANA: optimal combinations of interventions from network analysis&lt;/a&gt;. Bioinformatics, Volume 29, Issue 12, Pages 1571–1573, 2013.&lt;/p&gt;
+
+&lt;h4 id=&#34;ocsana-website&#34;&gt;OCSANA website:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html&#34; target=&#34;_blank&#34;&gt;http://bioinfo-out.curie.fr/projects/ocsana/OCSANA.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DiscreeTest</title>
+      <link>/tools/discreetest/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/discreetest/</guid>
+      <description>
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series
+data. The underlying assumption of DiscreeTest is that an optimal discretization method should
+preserve the dynamic patterns observed in the original data across all variables.&lt;/p&gt;
+
+&lt;h4 id=&#34;link-to-the-paper&#34;&gt;Link to the paper:&lt;/h4&gt;
+
+&lt;p&gt;Y Li, T Jann, P Vera-Licona. (2019). &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/35/17/3102/5292317?login=true&#34; target=&#34;_blank&#34;&gt;Benchmarking time-series data discretization on inference methods&lt;/a&gt;. Bioinformatics 35 (17), 3102 - 3109.&lt;/p&gt;
+
+&lt;h4 id=&#34;github-repository-with-source-code&#34;&gt;Github repository with source code:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AlgoRun</title>
+      <link>/tools/algorun/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/algorun/</guid>
+      <description>
+
+&lt;p&gt;AlgoRun is a dedicated packaging system for implemented algorithms, using Docker technology. Implemented algorithms, packaged with AlgoRun, can be executed through a user-friendly interface directly from a web browser or via a standardized RESTful web API to allow easy integration into more complex workflows. The packaged algorithm includes the entire software execution environment, thereby eliminating the common problem of software dependencies and the irreproducibility of computations over time.&lt;/p&gt;
+
+&lt;h4 id=&#34;this-project-was-developed-in-collaboration-with&#34;&gt;This project was developed in collaboration with:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://abdelrahmanhosny.me/&#34; target=&#34;_blank&#34;&gt;Abdelrahman Hosny&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://thibauld.com/&#34; target=&#34;_blank&#34;&gt;Thibauld Favre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://systemsmedicine.pulmonary.medicine.ufl.edu/profile/laubenbacher-reinhard/&#34; target=&#34;_blank&#34;&gt;Reinhard Laubenbacher&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;link-to-the-paper&#34;&gt;Link to the paper:&lt;/h4&gt;
+
+&lt;p&gt;A Hosny, P Vera-Licona, R Laubenbacher, T Favre. (2016). &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/32/15/2396/1742878&#34; target=&#34;_blank&#34;&gt;AlgoRun: a Docker-based packaging system for platform-agnostic implemented algorithms&lt;/a&gt;. Bioinformatics 32 (15), 2396-2398.&lt;/p&gt;
+
+&lt;h4 id=&#34;github-repository-with-algorun-source-code&#34;&gt;Github repository with AlgoRun source code:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/algorun&#34; target=&#34;_blank&#34;&gt;https://github.com/algorun&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;algorun-website&#34;&gt;AlgoRun website:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://algorun.org&#34; target=&#34;_blank&#34;&gt;http://algorun.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REACT</title>
+      <link>/tools/react/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/react/</guid>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;The inference of gene regulatory networks (GRNs) from system-level experimental observations is at the heart of systems biology due to its centrality in gaining insight into the complex regulatory mechanisms in cellular systems. This includes the inference of both the network topology and dynamic mathematical models.
+This software contains a novel network inference algorithm within the algebraic framework of Boolean polynomial dynamical system (BPDS). The algorithm considers time series data, including that of perturbation experiments such as knock-out mutants and RNAi experiments. To infer the network topology and dynamic models, it allows for the incorporation of prior biological knowledge while being robust to significant levels of noise in the data used for inference. It uses an evolutionary algorithm for local optimization with an encoding of the mathematical models as BPDS.&lt;/p&gt;
+
+&lt;h4 id=&#34;link-to-the-paper&#34;&gt;Link to the paper:&lt;/h4&gt;
+
+&lt;p&gt;P Vera-Licona, A Jarrah, LD Garcia-Puente, J McGee, R Laubenbacher (2014). &lt;a href=&#34;https://link.springer.com/article/10.1186/1752-0509-8-37&#34; target=&#34;_blank&#34;&gt;An Algebra-Based Method for Inferring Gene Regulatory Networks&lt;/a&gt;. BMC Systems Biology 8 (37). (Editor&amp;rsquo;s Pick)&lt;/p&gt;
+
+&lt;h4 id=&#34;algorun-docker-container&#34;&gt;AlgoRun Docker Container:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://algorun.org/browse?q=react&amp;amp;hPP=100&amp;amp;idx=dev_AlgoRun&amp;amp;p=0&amp;amp;is_v=1&#34; target=&#34;_blank&#34;&gt;http://algorun.org/browse?q=react&amp;amp;hPP=100&amp;amp;idx=dev_AlgoRun&amp;amp;p=0&amp;amp;is_v=1&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;link-to-run-react-on-the-web-using-algorun&#34;&gt;Link to run REACT on the web using AlgoRun&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://react.algorun.org/&#34; target=&#34;_blank&#34;&gt;http://react.algorun.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;github-repository-with-algorun-source-code&#34;&gt;Github repository with AlgoRun source code:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://veraliconaresearchgroup.github.io/publication/react/&#34; target=&#34;_blank&#34;&gt;https://veraliconaresearchgroup.github.io/publication/react/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QuIN</title>
+      <link>/tools/quin/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 -0500</pubDate>
+      
+      <guid>/tools/quin/</guid>
+      <description>
+
+&lt;p&gt;Recent studies of the human genome have indicated that regulatory elements (e.g. promoters and enhancers) at distal genomic locations can interact with each other via chromatin folding and affect gene expression levels. Genomic technologies for mapping interactions between DNA regions, e.g., ChIA-PET and HiC, can generate genome-wide maps of interactions between regulatory elements. These interaction datasets are important resources to infer distal gene targets of non-coding regulatory elements and to facilitate prioritization of critical loci for important cellular functions. We developed a web-based application, QuIN, which enables: 1) building and visualizing chromatin interaction networks, 2) annotating networks with user-provided private and publicly available functional genomics and interaction datasets, 3) querying network components based on gene name or chromosome location, and 4) utilizing network based measures to identify and prioritize critical regulatory targets and their direct and indirect interactions.&lt;/p&gt;
+
+&lt;h4 id=&#34;this-project-was-developed-in-collaboration-with&#34;&gt;This project was developed in collaboration with:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://thibauld.com/&#34; target=&#34;_blank&#34;&gt;Ucar&amp;rsquo;s Lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;links-to-the-associated-papers&#34;&gt;Links to the associated papers:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004809&#34; target=&#34;_blank&#34;&gt;http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004809&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41598-017-14389-7&#34; target=&#34;_blank&#34;&gt;https://www.nature.com/articles/s41598-017-14389-7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;github-repository-with-quin-source-code&#34;&gt;Github repository with QuIN source code:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/UcarLab/QuIN/&#34; target=&#34;_blank&#34;&gt;https://github.com/UcarLab/QuIN/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;quin-website&#34;&gt;QuIN website:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://quin.jax.org/&#34; target=&#34;_blank&#34;&gt;https://quin.jax.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OCSANA&#43;: optimal control and simulation of signaling networks from network analysis</title>
       <link>/publication/ocsanaplus/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
@@ -101,36 +273,6 @@
     </item>
     
     <item>
-      <title>OCSANA&#43;</title>
-      <link>/tools/ocsana_plus/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/tools/ocsana_plus/</guid>
-      <description>
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;OCSANA+ is a Cytoscape app for identifying driver nodes that control non-linear systems’ long-term dynamics, prioritizing combinations of interventions in large scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure. OCSANA+ includes an update to the previously introduced OCSANA (optimal combinations of interventions from network analysis) software tool with cutting-edge and rigorously tested algorithms, together with recently-developed structure-based control algorithms for non-linear systems and an algorithm for estimating the signal flow. All these algorithms are based on the network’s topology. OCSANA+ is implemented as a Cytoscape app to enable a straightforward user interface for running analyses and visualizing results.&lt;/p&gt;
-
-&lt;h4 id=&#34;link-to-the-paper&#34;&gt;Link to the paper:&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/bioinformatics/article-abstract/36/19/4960/5872521&#34; target=&#34;_blank&#34;&gt;https://academic.oup.com/bioinformatics/article-abstract/36/19/4960/5872521&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;github-repository-with-source-code&#34;&gt;Github repository with source code:&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/OCSANA-Plus_SourceCode/tree/master/OCSANA_Plus/target&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;ocsana-in-the-cytoscape-app-store&#34;&gt;OCSANA+ in the Cytoscape App store&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://apps.cytoscape.org/apps/ocsana&#34; target=&#34;_blank&#34;&gt;http://apps.cytoscape.org/apps/ocsana&lt;/a&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;ocsana-website&#34;&gt;OCSANA+ website:&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://veraliconaresearchgroup.github.io/OCSANA-Plus/&#34; target=&#34;_blank&#34;&gt;https://veraliconaresearchgroup.github.io/OCSANA-Plus/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Lauren Marazzi</title>
       <link>/team/marazzi/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 -0400</pubDate>
@@ -151,52 +293,6 @@ the Center for Quantitative Medicine UConn Health. She has extensive experience 
 
 &lt;p&gt;&lt;a href=&#34;https://drive.google.com/open?id=1HOEIN4s4R02ZDOi6ePtrIJAo9KZk3uhX&#34; target=&#34;_blank&#34;&gt;CV&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Maddie Gastonguay</title>
-      <link>/team/gastonguay/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/team/gastonguay/</guid>
-      <description>&lt;p&gt;Maddie is a UConn Honors Program graduate wtih a major in Applied Mathematics and a minor in Bioinformatics and French.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Emily Paul</title>
-      <link>/team/emily/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/team/emily/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kavin Kathir</title>
-      <link>/team/kavin/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/team/kavin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Milan Shah</title>
-      <link>/team/milan/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/team/milan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zuizz Saeed</title>
-      <link>/team/zuizz/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
-      
-      <guid>/team/zuizz/</guid>
-      <description></description>
     </item>
     
   </channel>

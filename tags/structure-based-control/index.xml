@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/structure-based-control/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>OCSANA&#43;</title>
       <link>/tools/ocsana_plus/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 -0500</pubDate>
       
       <guid>/tools/ocsana_plus/</guid>
       <description>Description OCSANA+ is a Cytoscape app for identifying driver nodes that control non-linear systems’ long-term dynamics, prioritizing combinations of interventions in large scale complex networks, and estimating the effects of node perturbations in signaling networks, all based on the analysis of the network’s structure. OCSANA+ includes an update to the previously introduced OCSANA (optimal combinations of interventions from network analysis) software tool with cutting-edge and rigorously tested algorithms, together with recently-developed structure-based control algorithms for non-linear systems and an algorithm for estimating the signal flow.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>OCSANA</title>
       <link>/tools/ocsana/</link>
-      <pubDate>Sat, 17 Jan 2015 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 30 Jan 2021 00:00:00 -0500</pubDate>
       
       <guid>/tools/ocsana/</guid>
       <description>Description OCSANA (Optimal Combinations of Interventions from Network Analysis) is a software designed to identify and prioritize optimal and minimal, combinations of interventions to disrupt the paths between selected source and target nodes. When specified by the user, OCSANA seeks to additionally minimize the off-target effects that a combination of interventions can cause on specified nodes. With the crucial ability to cope with large networks, OCSANA includes exact and selective enumeration approaches for the combinatorial interventions’ problem.</description>
