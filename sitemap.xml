@@ -23,6 +23,51 @@
     
     <url>
     
+      <loc>/project/reverseengineering/</loc>
+      <lastmod>2020-01-30T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/structurecontrol/</loc>
+      <lastmod>2020-01-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/tnbc/</loc>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/khannamacs/</loc>
+      <lastmod>2020-01-20T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/lymedisease/</loc>
+      <lastmod>2020-01-15T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tools/ocsana_plus/</loc>
       <lastmod>2019-10-17T00:00:00-04:00</lastmod>
     </url>
@@ -347,24 +392,6 @@
     
     <url>
     
-      <loc>/project/tnbc/</loc>
-      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/reverseengineering/</loc>
-      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/outreach/uchc_hsprogram/</loc>
       <lastmod>2016-04-28T00:00:00-04:00</lastmod>
     </url>
@@ -376,33 +403,6 @@
     
       <loc>/outreach/uchc.undergrad/</loc>
       <lastmod>2016-04-28T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/lymedisease/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/structurecontrol/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/khannamacs/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -533,7 +533,7 @@
     <url>
     
       <loc>/tags/cancer/</loc>
-      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -543,7 +543,7 @@
     <url>
     
       <loc>/tags/cancerreversion/</loc>
-      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -562,7 +562,7 @@
     <url>
     
       <loc>/tags/control/</loc>
-      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -582,7 +582,7 @@
     <url>
     
       <loc>/tags/data-discretization/</loc>
-      <lastmod>2018-11-17T00:00:00-05:00</lastmod>
+      <lastmod>2020-01-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -592,7 +592,7 @@
     <url>
     
       <loc>/tags/discrete-modeling/</loc>
-      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -622,7 +622,7 @@
     <url>
     
       <loc>/tags/lyme/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -632,7 +632,7 @@
     <url>
     
       <loc>/tags/macs/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-20T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -642,7 +642,7 @@
     <url>
     
       <loc>/tags/network-biology/</loc>
-      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-27T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -662,7 +662,7 @@
     <url>
     
       <loc>/tags/network-inference/</loc>
-      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -682,7 +682,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -712,7 +712,7 @@
     <url>
     
       <loc>/tags/reverse-engineering/</loc>
-      <lastmod>2016-04-28T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-30T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -732,7 +732,7 @@
     <url>
     
       <loc>/tags/tnbc/</loc>
-      <lastmod>2016-05-27T00:00:00-04:00</lastmod>
+      <lastmod>2020-01-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

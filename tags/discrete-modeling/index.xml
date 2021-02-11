@@ -7,24 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 27 May 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/discrete-modeling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cancer Reversion: Computational Systems Biology Approaches</title>
-      <link>/project/cancerreversion/</link>
-      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/cancerreversion/</guid>
-      <description>Cancer reversion is the biological process by which tumorigenic cells lose their malignant phenotype. The objective of this project is to develop and apply novel computational systems biology tools to identify molecular drivers of cancer reversion, their mechanisms of action and their clinical application&amp;hellip;&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>Development and Applicaton of Network Inference Methods</title>
       <link>/project/reverseengineering/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 -0500</pubDate>
       
       <guid>/project/reverseengineering/</guid>
       <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
@@ -32,6 +23,15 @@
 (2) Static Network and Dynamical Model’s Inference,
 (3) Validation and Benchmarking of Reverse-engineering Algorithms,
 (4) Model Analysis, Control and Simulation</description>
+    </item>
+    
+    <item>
+      <title>Cancer Reversion: Computational Systems Biology Approaches</title>
+      <link>/project/cancerreversion/</link>
+      <pubDate>Fri, 27 May 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/cancerreversion/</guid>
+      <description>Cancer reversion is the biological process by which tumorigenic cells lose their malignant phenotype. The objective of this project is to develop and apply novel computational systems biology tools to identify molecular drivers of cancer reversion, their mechanisms of action and their clinical application.</description>
     </item>
     
   </channel>

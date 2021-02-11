@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 17 Nov 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/data-discretization/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development and Applicaton of Network Inference Methods</title>
+      <link>/project/reverseengineering/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/project/reverseengineering/</guid>
+      <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
+(1) Data discretization,
+(2) Static Network and Dynamical Model’s Inference,
+(3) Validation and Benchmarking of Reverse-engineering Algorithms,
+(4) Model Analysis, Control and Simulation</description>
+    </item>
     
     <item>
       <title>DiscreeTest</title>
@@ -21,19 +34,6 @@
       <description>Description DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series data. The underlying assumption of DiscreeTest is that an optimal discretization method should preserve the dynamic patterns observed in the original data across all variables.
 Availability The source code of DiscreeTest is available in our Github repository: https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations
 Preprint Y Li, T Jann, P Vera-Licona. (2018). Benchmarking Time-Series Data Discretization on Inference Methods. Submitted.</description>
-    </item>
-    
-    <item>
-      <title>Development and Applicaton of Network Inference Methods</title>
-      <link>/project/reverseengineering/</link>
-      <pubDate>Thu, 28 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/reverseengineering/</guid>
-      <description>Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:
-(1) Data discretization,
-(2) Static Network and Dynamical Model’s Inference,
-(3) Validation and Benchmarking of Reverse-engineering Algorithms,
-(4) Model Analysis, Control and Simulation</description>
     </item>
     
     <item>

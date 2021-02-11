@@ -7,29 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/macs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>MyD88-dependent and -independent phagosomal signals in Macrophage mediated recognition and clearance of Borrelia burgdorferi (Lyme disease spirochete)</title>
-      <link>/project/lymedisease/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/lymedisease/</guid>
-      <description>Lyme disease is a highly prevalent tick-borne illness caused by the spirochetal bacterium Borrelia burgdorferi (Bb). The macrophage is a principal component of the innate immune response and has been observed at sites of Bb infection. Macrophages have the phagocytic and signaling machinery necessary to bind, engulf, and degrade Bb.
-Previous studies by our collaborator, The Salazar and Hawley lab, have emphasized that uptake and degradation of Bb by phagocytic cells, including monocytes and macrophages, are critical in eliciting the inflammatory response to the bacterium.</description>
-    </item>
-    
-    <item>
       <title>Tissue-resident Macrophage Mechanisms for Pathogen Clearance</title>
       <link>/project/khannamacs/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 -0500</pubDate>
       
       <guid>/project/khannamacs/</guid>
       <description>The importance of tissue-resident macrophages for tissue surveillance and homeostasis is emerging. We want to gain an understading to ultimately have the ability to reprogram the mechanisms of tissue-resident macrophages for pathogen clearance and regulation of related mechanisms such as inflammation. We are collaborating with Dr. Kamal Khanna with two tissue-resident macrophage populations:
  Lung: The lung is a very complex organ with specialized structures to allow for adequate gas exchange.</description>
+    </item>
+    
+    <item>
+      <title>MyD88-dependent and -independent phagosomal signals in Macrophage mediated recognition and clearance of Borrelia burgdorferi (Lyme disease spirochete)</title>
+      <link>/project/lymedisease/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/project/lymedisease/</guid>
+      <description>Lyme disease is a highly prevalent tick-borne illness caused by the spirochetal bacterium Borrelia burgdorferi (Bb). The macrophage is a principal component of the innate immune response and has been observed at sites of Bb infection. Macrophages have the phagocytic and signaling machinery necessary to bind, engulf, and degrade Bb.
+Previous studies by our collaborator, The Salazar and Hawley lab, have emphasized that uptake and degradation of Bb by phagocytic cells, including monocytes and macrophages, are critical in eliciting the inflammatory response to the bacterium.</description>
     </item>
     
   </channel>

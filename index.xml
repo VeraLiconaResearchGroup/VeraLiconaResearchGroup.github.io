@@ -29,6 +29,78 @@
     </item>
     
     <item>
+      <title>Development and Applicaton of Network Inference Methods</title>
+      <link>/project/reverseengineering/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/project/reverseengineering/</guid>
+      <description>&lt;p&gt;Much of our research work is related to the development and application of algorithms related to the different undertakings for the reverse-engineering of dynamical systems, with an emphasis on discrete dynamical systems. These undertakings include:&lt;/p&gt;
+
+&lt;p&gt;(1) Data discretization,&lt;/p&gt;
+
+&lt;p&gt;(2) Static Network and Dynamical Model’s Inference,&lt;/p&gt;
+
+&lt;p&gt;(3) Validation and Benchmarking of Reverse-engineering Algorithms,&lt;/p&gt;
+
+&lt;p&gt;(4) Model Analysis, Control and Simulation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure-Based Control of Dynamical Systems</title>
+      <link>/project/structurecontrol/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/project/structurecontrol/</guid>
+      <description>&lt;p&gt;Network control has been originally developed as part of systems and control theory. While the methods developed in this area have been applied successfully to many engineered and natural systems, several factors have limited its application to large complex biological systems such as cellular signaling networks. These include the limited scalability of the methods for large networks with thousands of components, incomplete information to build dynamical models with hundreds of variables, and the linearity assumption for the underlying dynamics by which bi-stability, that characterizes signaling networks, might be affected. Our two major aims in this project are: (1) Design highly scalable algorithms to identify combinations of intervention nodes to achieve targeted control of large signaling networks considering different graph structures and (2) Develop efficient algorithms for the prioritization of combinations of intervention nodes given the structure of the network and quantitative data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure-based Control to Reverse Cisplatin Resistance in Triple Negative Breast Cancer</title>
+      <link>/project/tnbc/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/project/tnbc/</guid>
+      <description>&lt;p&gt;Triple-negative breast cancers (TNBCs) are a unique group of clinically aggressive breast cancers for which surgery and chemotherapy are the only available therapeutic modalities. Dr. &lt;a href=&#34;https://www.jax.org/people/edison-liu&#34; target=&#34;_blank&#34;&gt;Ed Liu&lt;/a&gt; and his lab, identified a genomic configuration called the tandem duplicator phenotype (TDP) that defines a major subgroup of TNBC. TDP tumors are initially highly sensitive to cisplatin. Despite their initial responsiveness, they develop resistance to cisplatin therapy. The challenge addressed by the proposed project is to test and validate an analysis pipeline to identify therapeutic interventions to reverse cisplatin resistance in TNBC. The objective is to apply structure-based control approaches to identify network node overrides in the form of multiple gene interventions that have the effect of reversing the development of resistance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tissue-resident Macrophage Mechanisms for Pathogen Clearance</title>
+      <link>/project/khannamacs/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/project/khannamacs/</guid>
+      <description>&lt;p&gt;The importance of tissue-resident macrophages for tissue surveillance and homeostasis is emerging. We want to gain an understading to ultimately have the ability to reprogram the  mechanisms of tissue-resident macrophages for pathogen clearance and regulation of related mechanisms such as inflammation. We are collaborating with Dr. Kamal Khanna with two tissue-resident macrophage populations:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Lung: The lung is a very complex organ with specialized structures to allow for adequate gas exchange.  The pulmonary microenvironment is unique and has a direct and important influence on the resident immune cells, especially macrophage populations.  Currently, it is well established that lung harbors two distinct populations of macrophages known as alveolar macrophages (AMs) and interstitial macrophages (IMs). Dr. Khanna and is lab have recently discovered a new subset of macrophages in the lung, an interstitial subset of CD169+ lung resident macrophages that are transcriptionally and developmentally distinct from alveolar macrophages. We are analyzing RNA-seq data to reveal the unique transcriptional signature and mechanisms of this population of macrophages.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Spleen: CD169+ macrophages are a subpopulation of tissue-resident macrophages positioned in the splenic marginal zone (MZ) that are among the first cell types to encounter invading pathogens. Analogous to this, in the lymph nodes (LNs), CD169+ macrophages reside in the subcapsular sinus and have been shown to play a protective role against viral infections by capturing LNs draining viral particles, as well as for initiating humoral and adaptive immune responses against other infections and tumors. However, little is known about the functional outcome and downstream consequences of pathogen uptake by splenic MZ CD169+ macrophages after infections. We are analyzing RNA-seq data to reveal the unique transcriptional signature and mechanisms of this population of macrophages.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;More information can be found in my collaborator&amp;rsquo;s website: &lt;a href=&#34;https://med.nyu.edu/microbiology-parasitology/khanna-lab-microbiology&#34; target=&#34;_blank&#34;&gt;https://med.nyu.edu/microbiology-parasitology/khanna-lab-microbiology&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MyD88-dependent and -independent phagosomal signals in Macrophage mediated recognition and clearance of Borrelia burgdorferi (Lyme disease spirochete)</title>
+      <link>/project/lymedisease/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/project/lymedisease/</guid>
+      <description>&lt;p&gt;Lyme disease is a highly prevalent tick-borne illness caused by the spirochetal bacterium Borrelia burgdorferi (Bb). The macrophage is a principal component of the innate immune response and has been observed at sites of Bb infection. Macrophages have the phagocytic and signaling machinery necessary to bind, engulf, and degrade Bb.&lt;/p&gt;
+
+&lt;p&gt;Previous studies by our collaborator, The &lt;a href=&#34;https://health.uconn.edu/spirochete-lab/salazar-laboratory/research/&#34; target=&#34;_blank&#34;&gt;Salazar and Hawley lab&lt;/a&gt;, have emphasized that uptake and degradation of Bb by phagocytic cells, including monocytes and macrophages, are critical in eliciting the inflammatory response to the bacterium.&lt;/p&gt;
+
+&lt;p&gt;The objective of this collaborations is to study the role of the adaptor protein MyD88 in bacterial uptake and phagosomal signaling in macrophages. With bioinformatics tools and network analysis approaches we are analyzing RNA-seq data of stimulated bone marrow-derived macrophages (BMDMs) with Borrelia burgdorferi (Bb), the causative agent of Lyme disease. We will dissect the different signaling pathways with a particular attention to those involving MyD88, inflammation, actin and cytoskeleton organization.&lt;/p&gt;
+
+&lt;p&gt;More information can be found in my collaborator&amp;rsquo;s Spirochete Research Lab website: &lt;a href=&#34;https://health.uconn.edu/spirochete-lab/salazar-laboratory/research/&#34; target=&#34;_blank&#34;&gt;https://health.uconn.edu/spirochete-lab/salazar-laboratory/research/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>OCSANA&#43;</title>
       <link>/tools/ocsana_plus/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 -0400</pubDate>
@@ -121,104 +193,6 @@ the Center for Quantitative Medicine UConn Health. She has extensive experience 
       
       <guid>/team/zuizz/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Macrophage mediated recognition and clearance of Borrelia burgdorferinelicits MyD88-dependent and -independent phagosomal signals that contribute to phagocytosis and inflammation</title>
-      <link>/publication/myd88/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/myd88/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Benchmarking Time-Series Data Discretization on Inference Methods</title>
-      <link>/publication/discretization/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/discretization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DiscreeTest</title>
-      <link>/tools/discreetest/</link>
-      <pubDate>Sat, 17 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>/tools/discreetest/</guid>
-      <description>
-
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;DiscreeTest, is a two-step evaluation metric for ranking discretization methods for time-series
-data. The underlying assumption of DiscreeTest is that an optimal discretization method should
-preserve the dynamic patterns observed in the original data across all variables.&lt;/p&gt;
-
-&lt;h2 id=&#34;availability&#34;&gt;Availability&lt;/h2&gt;
-
-&lt;p&gt;The source code of DiscreeTest is available in our Github repository: &lt;a href=&#34;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&#34; target=&#34;_blank&#34;&gt;https://github.com/VeraLiconaResearchGroup/Benchmarking_TSDiscretizations&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;preprint&#34;&gt;Preprint&lt;/h2&gt;
-
-&lt;p&gt;Y Li, T Jann, P Vera-Licona. (2018). &lt;a href=&#34;https://veraliconaresearchgroup.github.io/publication/discretization/&#34; target=&#34;_blank&#34;&gt;Benchmarking Time-Series Data Discretization on Inference Methods&lt;/a&gt;. Submitted.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Big Genomic Data Skills Training for Professors (CT)</title>
-      <link>/outreach/bigdataprofs/</link>
-      <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/outreach/bigdataprofs/</guid>
-      <description>
-
-&lt;h2 id=&#34;project-title&#34;&gt;Project Title&lt;/h2&gt;
-
-&lt;p&gt;Big Genomic Data Skills Training for Professors (CT)&lt;/p&gt;
-
-&lt;h2 id=&#34;program-location&#34;&gt;Program Location&lt;/h2&gt;
-
-&lt;p&gt;The Jackson Laboratory for Genomic Medicine, Farmington, CT 06032&lt;/p&gt;
-
-&lt;h2 id=&#34;program-background&#34;&gt;Program Background&lt;/h2&gt;
-
-&lt;p&gt;This program is funded by the NIH Big Data to Knowledge (BD2K) Initiative. The purpose of the course is to offer training to professors from small colleges, regional universities, HBCU and INBRE institutions in big data-computational biology.  The goal of the program is to enable professors to launch Big Data or Computational Biology courses at their home institutions. Professors will be trained, receive a curricular model and be offered the ongoing technical support required to teach undergraduate courses in Biomedical Big Data science.&lt;/p&gt;
-
-&lt;h2 id=&#34;vera-licona-s-research-group-involvement&#34;&gt;Vera-Licona&amp;rsquo;s Research Group Involvement&lt;/h2&gt;
-
-&lt;p&gt;Dr. Vera-Licona has participated yearly by introducing attendees to Network Modeling.&lt;/p&gt;
-
-&lt;h2 id=&#34;further-information&#34;&gt;Further information&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.jax.org/education-and-learning/education-calendar/2018/may/big-genomic-data-skills-training-for-professors#&#34; target=&#34;_blank&#34;&gt;https://www.jax.org/education-and-learning/education-calendar/2018/may/big-genomic-data-skills-training-for-professors#&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MEDS 6455: Introduction to Systems Biology</title>
-      <link>/outreach/sysbio/</link>
-      <pubDate>Sat, 28 Apr 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/outreach/sysbio/</guid>
-      <description>
-
-&lt;h2 id=&#34;course-number-and-title&#34;&gt;Course Number and Title&lt;/h2&gt;
-
-&lt;p&gt;MEDS 6455: Introduction to Systems Biology&lt;/p&gt;
-
-&lt;h2 id=&#34;course-description&#34;&gt;Course Description&lt;/h2&gt;
-
-&lt;p&gt;The course guides students into a biology world as seen by engineers, physicists, mathematicians and computer scientists. The goal is to provide the necessary background to read modeling papers, choose Systems Biology resources that will help in biological projects, and be able to select a modeling technique appropriate for a given biological project.&lt;/p&gt;
-
-&lt;h2 id=&#34;vera-licona-s-research-group-involvement&#34;&gt;Vera-Licona&amp;rsquo;s Research Group Involvement&lt;/h2&gt;
-
-&lt;p&gt;Dr. Vera-Licona introduces students to reverse engineering discrete dynamical systems.&lt;/p&gt;
-
-&lt;h2 id=&#34;further-information&#34;&gt;Further information&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sysbiocourse.wordpress.com/&#34; target=&#34;_blank&#34;&gt;https://sysbiocourse.wordpress.com/&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>
