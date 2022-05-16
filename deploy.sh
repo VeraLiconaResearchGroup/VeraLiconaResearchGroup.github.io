@@ -1,4 +1,4 @@
-jekyll build
+JEKYLL_ENV=production jekyll build
 cp -a _site/* ../VeraLiconaResearchGroup.github.io/
 cd ../VeraLiconaResearchGroup.github.io/
 git add *
